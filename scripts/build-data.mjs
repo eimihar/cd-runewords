@@ -43,6 +43,18 @@ const categories = readCsv('category.csv')
 
 const knownTags = new Set(categories.flatMap((c) => c.tags))
 
+// ---- rune-details.json: per-rune effect per level + max level (hand-maintained) ----
+const runeDetails = JSON.parse(readFileSync(join(docs, 'rune-details.json'), 'utf8'))
+for (const [rune, detail] of Object.entries(runeDetails)) {
+  if (!runeFamily.has(rune)) throw new Error(`rune-details.json: unknown rune "${rune}"`)
+  if (typeof detail?.effectPerLevel !== 'string' || !detail.effectPerLevel) {
+    throw new Error(`rune-details.json: "${rune}" missing effectPerLevel`)
+  }
+  if (typeof detail?.maxLevel !== 'number') {
+    throw new Error(`rune-details.json: "${rune}" missing numeric maxLevel`)
+  }
+}
+
 // ---- runewords.csv ----
 const rows = readCsv('runewords.csv')
 const headerIdx = rows.findIndex((r) => cell(r, 0) === 'Rune 1')
@@ -139,13 +151,18 @@ const emit = (name, data) => {
   console.log(`[data] wrote src/data/${name}`)
 }
 
-emit('runes.json', { families })
+emit('runes.json', { families, details: runeDetails })
 emit('categories.json', { categories })
 emit('runewords.json', { runewords })
 
+const missingDetails = [...runeFamily.keys()].filter((r) => !runeDetails[r])
 console.log(
   `[data] ${families.length} families, ${runeFamily.size} runes, ` +
     `${categories.length} tag groups, ${runewords.length} runewords` +
     (unusedRunes.length ? ` (unused runes: ${unusedRunes.join(', ')})` : ''),
+)
+console.log(
+  `[data] rune details: ${Object.keys(runeDetails).length}/${runeFamily.size}` +
+    (missingDetails.length ? ` (no level data: ${missingDetails.join(', ')})` : ''),
 )
 if (unknownTagCount > 0) console.warn(`[data] ${unknownTagCount} unknown tag occurrence(s)`)

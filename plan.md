@@ -9,8 +9,11 @@ Parsed from `docs/runes.csv`, `docs/runewords.csv`, `docs/category.csv`.
 - **Rune**: `{ name, family }`
   - Families: **Primordial** (9), **Sun** (8), **Moon** (7), **Abyss** (5), **Elritch** (11) — 40 runes total.
   - `Adr` is defined but unused by any runeword (kept in data).
+  - **Rune level details** live in `docs/rune-details.json` (hand-maintained, not a CSV):
+    `{ rune: { effectPerLevel, maxLevel } }` — validated by the pipeline and merged into
+    `src/data/runes.json` as `details`; runes without an entry show "No level data yet".
 - **Runeword**: `{ id, runes[], effects[], tags[], runeCount, notes, rdHint, build }`
-  - `runeCount`: 3 | 5 | 6 (212 × 3-rune, 55 × 5-rune, 25 × 6-rune = 292 total).
+  - `runeCount`: 3 | 5 | 6 (212 × 3-rune, 55 × 5-rune, 25 × 6-rune = 293 total).
   - `effects[]`: `Effect` field split on newlines/semicolons into individual bonus lines.
   - `tags[]`: from `CategoryTags`, trimmed.
   - `rdHint`: runeword-discovery hint extracted from Notes / Discovery columns (`~100% RD`, `<25%`, `>50%`, …).
@@ -21,9 +24,11 @@ Parsed from `docs/runes.csv`, `docs/runewords.csv`, `docs/category.csv`.
 
 ## 2. Data pipeline
 
-- `scripts/build-data.mjs` (Node + papaparse) parses the 3 CSVs and emits
-  `src/data/runes.json`, `src/data/runewords.json`, `src/data/categories.json`.
+- `scripts/build-data.mjs` (Node + papaparse) parses the 3 CSVs plus `docs/rune-details.json`
+  and emits `src/data/runes.json` (families + details), `src/data/runewords.json`,
+  `src/data/categories.json`.
 - Validation: every rune used in a runeword exists in `runes.csv`; unknown runes → build error.
+  `rune-details.json` keys are checked against `runes.csv` (unknown key or bad shape → error).
 - Normalization (display only, raw CSVs untouched):
   - `Ofensive` → `Offensive` in tag labels.
   - Trim whitespace, split multi-line / `;`-separated effects.

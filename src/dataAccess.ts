@@ -1,13 +1,18 @@
 import categoriesData from './data/categories.json'
 import runesData from './data/runes.json'
 import runewordsData from './data/runewords.json'
-import type { CategoryGroup, RuneFamily, Runeword } from './types'
+import type { CategoryGroup, RuneDetail, RuneFamily, Runeword } from './types'
 
 export const families: RuneFamily[] = runesData.families
+export const runeDetails: Record<string, RuneDetail> = runesData.details
 export const categories: CategoryGroup[] = categoriesData.categories
 export const runewords: Runeword[] = runewordsData.runewords
 export const totalRunewords = runewords.length
 export const totalRunes = families.reduce((n, f) => n + f.runes.length, 0)
+
+export function runeDetail(rune: string): RuneDetail | null {
+  return runeDetails[rune] ?? null
+}
 
 export const builds: string[] = [...new Set(runewords.map((r) => r.build).filter(Boolean))].sort()
 

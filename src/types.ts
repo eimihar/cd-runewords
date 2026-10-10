@@ -3,6 +3,11 @@ export interface RuneFamily {
   runes: string[]
 }
 
+export interface RuneDetail {
+  effectPerLevel: string
+  maxLevel: number
+}
+
 export interface CategoryGroup {
   group: string
   tags: string[]

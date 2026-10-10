@@ -65,5 +65,115 @@
         "Zhy"
       ]
     }
-  ]
+  ],
+  "details": {
+    "Ath": {
+      "effectPerLevel": "+3.75% Chance to Stun with Primal Damage",
+      "maxLevel": 10
+    },
+    "Oda": {
+      "effectPerLevel": "+9.75% Damage to Stunned",
+      "maxLevel": 10
+    },
+    "Bik": {
+      "effectPerLevel": "+25% Critical Hit Damage",
+      "maxLevel": 10
+    },
+    "Dik": {
+      "effectPerLevel": "+5% Critical Hit Chance",
+      "maxLevel": 10
+    },
+    "Pok": {
+      "effectPerLevel": "+2.5% Double Shot Chance",
+      "maxLevel": 10
+    },
+    "Mak": {
+      "effectPerLevel": "+10% Target Amount",
+      "maxLevel": 10
+    },
+    "Yrk": {
+      "effectPerLevel": "+2.5% Damage Increased per Life Lost",
+      "maxLevel": 10
+    },
+    "Oth": {
+      "effectPerLevel": "??? +18.75% Chance to Burn with Solar Damage",
+      "maxLevel": 10
+    },
+    "Odo": {
+      "effectPerLevel": "??? +75% Damage to Burning",
+      "maxLevel": 10
+    },
+    "Zir": {
+      "effectPerLevel": "+3.75% Instant Attack Chance",
+      "maxLevel": 10
+    },
+    "Djar": {
+      "effectPerLevel": "+5% Projectile Amount",
+      "maxLevel": 10
+    },
+    "Dyr": {
+      "effectPerLevel": "+0.5 Projectile Pierce",
+      "maxLevel": 10
+    },
+    "Kar": {
+      "effectPerLevel": "??? +67.5° Attack Arc",
+      "maxLevel": 10
+    },
+    "Rath": {
+      "effectPerLevel": "+7.5% Attack Reach",
+      "maxLevel": 10
+    },
+    "Uth": {
+      "effectPerLevel": "+3.75% Chance to Freeze with Lunar Damage",
+      "maxLevel": 10
+    },
+    "Odu": {
+      "effectPerLevel": "??? +75% Damage to Frozen",
+      "maxLevel": 10
+    },
+    "Djur": {
+      "effectPerLevel": "+2.5% Projectile Split Chance",
+      "maxLevel": 10
+    },
+    "Ujr": {
+      "effectPerLevel": "??? +% Projectile Duration",
+      "maxLevel": 10
+    },
+    "Ird": {
+      "effectPerLevel": "??? +% Energy Cost Reduction",
+      "maxLevel": 10
+    },
+    "Azh": {
+      "effectPerLevel": "+50%+5% x lvl Chained Targets",
+      "maxLevel": 10
+    },
+    "Yiln": {
+      "effectPerLevel": "+1 Rune Slot to Random Other Ability",
+      "maxLevel": 0
+    },
+    "Xal": {
+      "effectPerLevel": "+50% + (lvl x 5)% Increased Effectiveness of Primordial Runes",
+      "maxLevel": 10
+    },
+    "Xol": {
+      "effectPerLevel": "+50% + (lvl x 5)% Increased Effectiveness of Sun Runes",
+      "maxLevel": 10
+    },
+    "Xul": {
+      "effectPerLevel": "+50% + (lvl x 5)% Increased Effectiveness of Moon Runes",
+      "maxLevel": 10
+    },
+    "Zha": {
+      "effectPerLevel": "+62.5% + (lvl x 6.25)% Primal Damage and Damage Type Converted to Primal",
+      "maxLevel": 10
+    },
+    "Zho": {
+      "effectPerLevel": "+62.5% + (lvl x 6.25)% Solar Damage and Damage Type Converted to Solar",
+      "maxLevel": 10
+    },
+    "Zhu": {
+      "effectPerLevel": "+62.5% + (lvl x 6.25)% Lunar Damage and Damage Type Converted to Lunar",
+      "maxLevel": 10
+    }
+  }
 }
