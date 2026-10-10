@@ -1,0 +1,428 @@
+Conquest Dark Runewords so far:,,,,,,293 runewords,"Notes: 
+• Copy table to be able to use your own filters, sorting, add own tags",,,,
+,,,,,,,,,,,
+Rune 1,Rune 2,Rune 3,Rune 4,Rune 5,Rune 6,Effect,Category Tags,Number of Runes,Notes,Runeword Discovery,Build
+Djar,Yiln,Pok,Ird,Xyth,,"+3500% Damage Reflected on Block
++100% Damage to Elites",Reflect,5 Runes,,0%,Blockade
+Gul,Dik,Uth,,,,+100% Damage Taken Staggered,Defensive,3 Runes,,,Blockade
+Xol,Xol,Rath,,,,+80% All Damage,"Ofensive, Good",3 Runes,,30%,Blockade
+Ydr,Odo,Xyth,,,,"+15% Projectile Split Chance
++2000% Damage Reflected on Block","Reflect, Utility, Good",3 Runes,,0%,Blockade
+Yiln,Unh,Gul,Yth,Ydr,,"+180% Proc Chance Chance
++1500% Damage Reflected on Block
++200% Primary Attack Ability Damage","Reflect, Utility, Primary Ability, Ofensive",5 Runes,0~25% RD,,Blockade
+Lith,Xyl,Ody,,,,"+125% Solar Damage
++40% Power Ability Damage","Power Ability, Ofensive, Solar Damage",3 Runes,,,NecroAda
+Mak,Zhu,Odu,,,,"+100% Projectile Damage
++12.5% Damage to Curse",Ofensive,3 Runes,,,NecroAda
+Ujr,Ird,Xul,,,,"+15% Double Shot Chance
++10% Solar Resistance","Ofensive, Defensive",3 Runes,,,NecroAda
+Yiln,Rath,Zir,Kar,Xol,Unh,"+85% Chance to Spawn XP Soul
++67.5% Chance to Burn with Solar Damage","Utility, Burn",6 Runes,,,NecroAda
+Djar,Zho,Ird,,,,"+25% Critical Chance
++250% Damage to Elites","Ofensive, Powerful",3 Runes,,,Soulstealer
+Zhu,Kyn,Xyl,,,,"+10% Critical Hit Chance
++250% Projectile Damage","Ofensive, Good",3 Runes,May require +25% Runeword Discovery,,Soulstealer
+Anh,Gul,Xal,,,,+20% Movement Charge Recharge Rate,Utility,3 Runes,,,
+Anh,Yiln,Dik,Djur,Yrk,,"+62.5% Umbral Damage
++3.75% Chance to Stun with Primal Damage
++70% Chance to spawn XP Soul","Umbral Damage, Stun, Utility, Ofensive",5 Runes,,,
+Ath,Dik,Xol,,,,"+90% Ability Damage
++2 Energy on Block","Ofensive, Utility",3 Runes,,,
+Ath,Kar,Yiln,,,,+7 Max Companions,"Allies, Waste",3 Runes,,,
+Ath,Oda,Odo,,,,+22.5% Chance for Corrupted Soul Fragments,Utility,3 Runes,,,
+Ath,Oth,Yrk,,,,+600% Movement Ability Damage,,3 Runes,~100% RD,,
+Ath,Xal,Ird,,,,+45% Resistance Piercing Chance,Ofensive,3 Runes,,,
+Ath,Xal,Xal,,,,"+25% Damage to Burning;
++22.5% Chance to Curse with Umbral Damage","Curse, Ofensive",3 Runes,,,
+Ath,Xyth,Zir,,,,"+12.5% Damage to Curse
++5% Chance to spawn Healing Soul
++37.5% Lunar Damage","Defensive, Lunar Damage, Ofensive",3 Runes,,,
+Ath,Zha,Zha,,,,+75% Solar Damage,"Solar Damage, Ofensive",3 Runes,,,
+Azh,Rath,Yiln,Xyth,Mak,,+950% Primary Attack Ability Damage,"Primary Ability, Ofensive",5 Runes,,,
+Bik,Oda,Ydr,,,,+150% Artifact Damage,"Artifact, Ofensive",3 Runes,,32%,
+Bik,Odu,Oth,,,,+50% Projectile Damage,Ofensive,3 Runes,May require +125% Runeword Discovery,,
+Bik,Pok,Dyr,,,,+112.5% Damage Taken Staggered,Defensive,3 Runes,,0%,
+Bik,Xal,Xal,,,,+10% Chance for Soul Coins,Utility,3 Runes,,25%,
+Dik,Ath,Odu,,,,+60 Power,,3 Runes,~100% RD,,
+Dik,Ody,Xal,,,,+60% Damage to Healthy,Ofensive,3 Runes,,0%,
+Dik,Xal,Oda,,,,"+500% Critical Hit Damage
++25% Reduced Bleed Rate","Ofensive, Defensive",3 Runes,May require +125% Runeword Discovery,,
+Djar,Djur,Dyr,,,,+140% Power Ability Damage,"Power Ability, Ofensive, Good",3 Runes,,0%,
+Djar,Pok,Yrk,,,,+900% Movement Ability Damage,"Movement Ability, Ofensive",3 Runes,,,
+Djar,Rath,Xol,,,,+100% Projectile Damage,Ofensive,3 Runes,,,
+Djar,Xyth,Zho,,,,+100% Damage to Burning,Ofensive,3 Runes,<25% Runeword Discovery,,
+Djar,Yiln,Xyth,Ird,Pok,,"+2.5% Movement Speed per Life Lost
++50 Power
++412.5% Increased Reflected Damage","Ofensive, Reflect, Utility",5 Runes,,,
+Djar,Yrk,Pok,,,,+17.5% Attack Reach,"Utility, Good",3 Runes,,15%,
+Djur,Pok,Odu,,,,+50% All Damage,Ofensive,3 Runes,,,
+Djur,Pok,Yiln,Xyth,Onh,,+85% Resistance Piercing Chance,Ofensive,5 Runes,,,
+Djur,Xyth,Ydr,,,,+10% Chance to spawn XP Soul,Utility,3 Runes,,,
+Gul,Bik,Xyth,,,,+90% Movement Charge Recharge Rate,Utility,3 Runes,,>25%,
+Gul,Dik,Xyth,,,,"+90% Ability Damage
++50% Projectile Damage","Ofensive, Good",3 Runes,,0%,
+Gul,Gul,Odu,,,,+20% All Damage,Ofensive,3 Runes,,,
+Gul,Oda,Bik,,,,+20% Health Regeneration,,3 Runes,~100% RD,,
+Gul,Pok,Ydr,,,,+150% Ally Damage,Allies,3 Runes,,0%,
+Gul,Uth,Unh,,,,+20% Movement Speed,Utility,3 Runes,,,
+Gul,Ydr,Djar,,,,+7.5% Block Chance,Defensive,3 Runes,,,
+Gul,Yth,Xyth,,,,+150% Ally Damage,Allies,3 Runes,May require +125% Runeword Discovery,,
+Gul,Zir,Ydr,,,,"+70% Movement Charge Recharge Rate
++37.5% Umbral Damage","Utility, Umbral Damage, Ofensive",3 Runes,,,
+Ird,Odu,Yth,,,,+12.5% Health on Kill,Defensive,3 Runes,,,
+Ird,Ujr,Zhu,,,,+12 Soul Attract Range,Utility,3 Runes,,,
+Ird,Xul,Ujr,,,,"+25% Passive Ability Damage;
++15% Chance to Freeze with Lunar Damage","Passive Ability, Ofensive, Freeze",3 Runes,,,
+Ird,Yiln,Djar,Xyth,Pok,,"+125% Damage Taken Staggered
++750% Increased Reflected Damage","Defensive, Reflect",5 Runes,,,
+Ird,Yiln,Djar,,,,+18.75% Chance to Freeze with Lunar Damage,Freeze,3 Runes,,,
+Ird,Yiln,Pok,Xyth,Djar,,+200% All Damage,Ofensive,5 Runes,,,
+Ird,Yiln,Pok,,,,+400% Critical Hit Damage,Ofensive,3 Runes,,,
+Ird,Yiln,Xyth,,,,"+30% Ability Damage
++40% Chance to spawn XP Soul","Ofensive, Utility",3 Runes,,,
+Ird,Yiln,Ydr,Xyth,Rath,,+10% Movement Speed per Life Lost,,5 Runes,,0%,
+Ird,Yiln,Ydr,,,,+20% Power Ability Damage,,3 Runes,,0%,
+Ird,Yiln,Zir,,,,"+225% Artifact Damage
++3 Movement Charges","Ofensive, Artifact, Movement Charge",3 Runes,,,
+Ird,Zho,Djar,,,,+200% Barrier Recharge Rate,Defensive,3 Runes,Between 25-125% Runeword Discovery,,
+Kar,Oda,Rath,,,,"+30% Damage to Injuried
++200% Power Ability Damage","Power Ability, Ofensive",3 Runes,,0%,
+Kar,Odu,Oth,,,,"+90% All Damage;
++15 Soul Attract Range","Ofensive, Utility",3 Runes,,,
+Kar,Rath,Yiln,Zir,Xol,,"+2.5% Block Chance;
++1400% Movement Ability Damage","Defensive, Movement Ability, Ofensive",5 Runes,,,
+Lith,Gul,Gul,,,,"+200% Primary Attack Ability Damage
++22.5% Double Shot Chance","Primary Ability, Utility, Powerful",3 Runes,,33%,
+Lith,Unh,Odu,,,,"+600% Movement Ability Damage
++50% Passive Ability Damage","Passive Ability, Movement Ability, Ofensive",3 Runes,,,
+Lith,Xol,Xal,,,,+2.5% Energy Cost Reduction,Utility,3 Runes,May require +125% Runeword Discovery,,
+Lith,Xyl,Gul,,,,"+15% Primal Resistance
++8 Dodge Charges","Defensive, Dodge Charge",3 Runes,,40%,
+Lith,Xyl,Yiln,Yth,Ody,,"+100% Critical Hit Damage
++10 Max Companions
++150% Chained Attack Steps","Ofensive, Allies",5 Runes,,,
+Lith,Zir,Xyth,,,,"+11.25% Chance to Curse with Umbral Damage
++30% Chance to spawn an XP Soul","Curse, Utility",3 Runes,,,
+Mak,Zir,Azh,,,,+60% Power Ability Damage,"Power Ability, Ofensive",3 Runes,,,
+Oda,Dik,Yth,,,,+10% Target Amount,Utility,3 Runes,,0%,
+Oda,Ody,Unh,,,,+87.5% Damage to Burning,Ofensive,3 Runes,,0%,
+Oda,Unh,Ody,,,,"+1 Dodge Charge
++250% Reduced Bleed Rate
++22.5% Chance to spawn Healing Soul","Defensive, Dodge Charge",3 Runes,,,
+Oda,Uth,Yiln,Xol,Dik,,"+5 Energy on Block
++300% Reduced Bleed Rate","Utility, Defensive",5 Runes,,,
+Oda,Xol,Kar,,,,+60% Attack Force,,3 Runes,,0%,
+Oda,Xol,Odo,,,,+37.5% Damage to Burning,,3 Runes,~100% RD,,
+Oda,Ydr,Ath,,,,"+90 Power
++62.5% Damage to Frozen","Ofensive, Powerful",3 Runes,,,
+Oda,Yiln,Bik,Oth,Anh,,+18.75% Chance to Stun with Primal Damage,Stun,5 Runes,,,
+Oda,Yiln,Bik,,,,+60% All Damage,"Ofensive, Waste",3 Runes,,,
+Odo,Gul,Dik,,,,+87.5% Lunar Damage,,3 Runes,~100% RD,,
+Odo,Oda,Xyth,,,,+112.5% Chance for Rare Items,Utility,3 Runes,May require +125% Runeword Discovery,,
+Odo,Ody,Onh,,,,"+10% Proc Chance
++2.5 Projectile Pierce",Utility,3 Runes,,>50%,
+Odo,Oth,Djar,,,,"+150% Primary Attack Ability Damage
++45% Movement Speed","Primary Ability, Ofensive, Utility, Good",3 Runes,,0%,
+Odo,Yiln,Kar,,,,+10% Projectile Duration,"Utility, Waste",3 Runes,,,
+Odu,Dik,Ird,,,,+30% Chance to Burn with Solar Damage,Burn,3 Runes,,0%,
+Odu,Lith,Odo,,,,+25% Double Shot Chance,Utility,3 Runes,,>50%,
+Odu,Rath,Unh,,,,+1 Energy on Block,Utility,3 Runes,,,
+Odu,Xul,Uth,,,,+250% Passive Ability Damage,"Passive Ability, Ofensive",3 Runes,,,
+Odu,Zir,Onh,,,,+50% Solar Damage,"Solar Damage, Ofensive",3 Runes,,,
+Ody,Bik,Pok,,,,+50% Critical Hit Damage,Ofensive,3 Runes,,,
+Ody,Kar,Ydr,,,,"+12.5% Chance for Rare Items
++7.5% Block Chance",,3 Runes,~100% RD,,
+Ody,Lith,Ird,,,,+20% Ability Damage,Ofensive,3 Runes,,,
+Ody,Odo,Yth,,,,+30% Ability Damage,Ofensive,3 Runes,,0%,
+Ody,Xal,Rath,,,,+125% Damage Taken Staggered,Defensive,3 Runes,,,
+Ody,Xyl,Xyl,,,,"+30% Movement Speed
++70% All Damage","Ofensive, Utility",3 Runes,,,
+Ody,Yiln,Dik,Bik,Oda,, +150% Reduced Bleed Rate,Defensive,5 Runes,,,
+Ody,Yth,Ydr,,,,+75% Lunar Damage,"Lunar Damage, Ofensive",3 Runes,~25% RD,,
+Ody,Yth,Zhy,,,,+112.5% Damage Taken Staggered,Defensive,3 Runes,,,
+Onh,Dyr,Yrk,,,,+8 Max Greater Allies,Allies,3 Runes,,,
+Onh,Gul,Ody,,,,+25% Energy Cost Reduction,"Utility, Good",3 Runes,May require +125% Runeword Discovery,,
+Onh,Xyth,Xyth,,,,+17.5% Chance to spawn Healing Soul,Defensive,3 Runes,,30%,
+Oth,Bik,Zir,,,,"+5 Energy on Block
++5 Projectile Pierce",Utility,3 Runes,,,
+Oth,Dyr,Djur,,,,"+6 Max Greater Allies
++200% Power Ability Damage","Allies, Power Ability, Good",3 Runes,,,
+Oth,Oda,Djar,,,,+87.5% Damage to Curse,Ofensive,3 Runes,,,
+Oth,Odo,Ydr,,,,+8 Movement Charges,Movement Charge,3 Runes,,15%,
+Oth,Onh,Anh,,,,+112.5% Solar Damage,"Solar Damage, Ofensive",3 Runes,,,
+Oth,Rath,Xyth,,,,"+12.5% Movement Speed per Life Lost
++25% Chance to spawn Healing Soul","Utility, Defensive",3 Runes,,,
+Oth,Xol,Xol,,,,"+8 Max Lesser Allies
++15% Double Shot Chance","Ofensive, Allies",3 Runes,,,
+Oth,Yth,Odo,,,,+12.5% Attack Reach,Utility,3 Runes,,0%,
+Oth,Yth,Odu,,,,+15% Projectile Split Chance,Utility,3 Runes,,,
+Pok,Odu,Ath,,,,+40% Chained Attack Steps,Utility,3 Runes,,,
+Pok,Yiln,Djar,,,,+50% Ally Damage,Allies,3 Runes,,,
+Pok,Yiln,Ird,Djar,Xyth,,+95% Projectile Duration,Utility,5 Runes,,,
+Pok,Yiln,Xyth,,,,"+150% Projectile Damage
++6.25% Health on Kill","Ofensive, Defensive",3 Runes,,,
+Rath,Ath,Pok,,,,+10 Max Lesser Allies,Allies,3 Runes,,,
+Rath,Azh,Mak,,,,+7 Max Companions,Allies,3 Runes,,,
+Rath,Lith,Xyl,,,,+30% Chance to Curse with Umbral Damage,"Curse, Ofensive",3 Runes,,,
+Rath,Ody,Kyn,,,,+150% Increased Reflected Damage,Reflect,3 Runes,,,
+Rath,Ody,Xal,,,,+40% Primal Resistance,Defensive,3 Runes,,>50%,
+Rath,Unh,Bik,,,,+10% Damage increased per Life Lost,Ofensive,3 Runes,,0%,
+Rath,Xol,Yiln,,,,+15% Attack Reach,Utility,3 Runes,,,
+Rath,Xol,Zhy,,,,"+25% Damage to Stunned
++25% Chance for Rare Items","Ofensive, Utility",3 Runes,,15%,
+Rath,Xol,Zir,,,,+22.5% Movement Speed per Life Lost,Utility,3 Runes,,,
+Rath,Ydr,Xyth,,,,+25% Passive Ability Damage,,3 Runes,~100% RD,,
+Rath,Yiln,Ath,Xol,Kar,,"+40% Chance to spawn XP Soul
++37.5% Damage to Cursed
++100% Target Amount","Ofensive, Utility",5 Runes,,,
+Rath,Yth,Odu,,,,"+40% Movement Charge Recharge Rate
++30% Chance to spawn XP Soul",,3 Runes,~100% RD,,
+Rath,Yth,Xyl,,,,+100% Damage to Healthy,Ofensive,3 Runes,,,
+Rath,Zhy,Xol,,,,"+12.5% Health Regeneration
++125% Primal Damage","Defensive, Ofensive",3 Runes,,25%,
+Ujr,Djur,Xul,,,,"+5% Solar Resistance
++12.5% Damage Taken Reduced per Life Lost",Defensive,3 Runes,,,
+Ujr,Pok,Xyth,,,,"+1 Projectile Pierce
++300% Barrier Amount","Defensive, Utility",3 Runes,,>25%,
+Unh,Gul,Odu,,,,+100% Projectile Damage,Ofensive,3 Runes,,,
+Unh,Oda,Xol,,,,+25% Lunar Resistance,Defensive,3 Runes,,,
+Unh,Odo,Odu,,,,"+160% Power Ability Damage
++250% Primary Attack Ability Damage","Primary Ability, Power Ability, Ofensive, Powerful",3 Runes,,,
+Unh,Uth,Ath,,,,+7.5% Double Shot Chance,,3 Runes,~100% RD,,
+Uth,Kar,Unh,,,,+5 Energy on Block,,3 Runes,~100% RD,,
+Uth,Ody,Rath,,,,+30% Projectile Duration,Utility,3 Runes,,0%,
+Uth,Ody,Xyth,,,,+800% Movement Ability Damage,"Movement Ability, Ofensive",3 Runes,,10%,
+Uth,Oth,Ydr,,,,"+26.25% Chance to Freeze with Lunar Damage
++1000% Damage Reflected on Block","Freeze, Reflect",3 Runes,,,
+Uth,Xyth,Dik,,,,+6 Max Companions,Allies,3 Runes,,10%,
+Xal,Bik,Yrk,,,,"+22.5% Movement Speed per Life Lost
++112.5% Solar Damage","Solar Damage, Utility, Ofensive",3 Runes,,0%,
+Xal,Djar,Djur,,,,+5% Double Shot Chance,Utility,3 Runes,,,
+Xal,Oda,Djur,,,,"+50% Movement Speed
++175% Artifact Damage","Utility, Artifact",3 Runes,,>50%,
+Xal,Oda,Yrk,,,,+25% Energy Cost Reduction,"Utility, Good",3 Runes,,0%,
+Xal,Ody,Anh,,,,+37.5% Chance to Curse with Umbral Damage,Curse,3 Runes,,,
+Xal,Oth,Yiln,,,,"+40% Attack Force
++2.5% Chance to spawn Healing Soul","Utility, Ofensive, Waste",3 Runes,,,
+Xal,Xol,Rath,,,,+1.5 Projectile Pierce,Utility,3 Runes,,5%,
+Xol,Ath,Oth,,,,+2.5% Chance for Soul Coins,Utility,3 Runes,,0%,
+Xol,Odo,Unh,,,,"+37.5% Chance for Rare Items
++100% Lunar Damage",,3 Runes,~100% RD,,
+Xol,Rath,Unh,,,,+100% Damage to Healthy,Ofensive,3 Runes,,32%,
+Xol,Xal,Rath,,,,+80% Attack Force,Utility,3 Runes,,0%,
+Xol,Xol,Kyn,,,,+500% Primary Attack Ability Damage,"Primary Ability, Ofensive",3 Runes,,0%,
+Xol,Zir,Oth,,,,+100% Lunar Damage,"Lunar Damage, Ofensive",3 Runes,,0%,
+Xyth,Dik,Gul,,,,"+500% Increased Reflected Damage to Elites
++70 Power","Reflect, Ofensive, Good",3 Runes,,,
+Xyth,Djar,Zho,,,,"+2.5% Block Chance
++10 Max Companions","Defensive, Allies",3 Runes,Require >25% Runeword Discovery,,
+Xyth,Gul,Uth,,,,+125% Damage to Frozen,Ofensive,3 Runes,,,
+Xyth,Kar,Oda,,,,+3 Max Greater Allies,,3 Runes,~100% RD,,
+Xyth,Oth,Xal,,,,+3 Projectile Pierce,Utility,3 Runes,,,
+Xyth,Pok,Ujr,,,,+2.5% Health on Kill,Defensive,3 Runes,,>25%,
+Xyth,Rath,Dik,Yiln,Unh,,+90 Power,Ofensive,5 Runes,Can only exist within Nhalzûr. Last spot must be open.,,
+Xyth,Xal,Pok,,,,+75% Damage to Elites,Ofensive,3 Runes,,,
+Xyth,Xyth,Zir,,,,+750% Damage Reflected on Block,Reflect,3 Runes,,,
+Xyth,Ydr,Ath,,,,+5% Health on Kill,Defensive,3 Runes,,,
+Xyth,Yiln,Ird,,,,+25% Reduced Bleed Rate,Defensive,3 Runes,,,
+Xyth,Yiln,Odo,,,,+6 Max Companions,Allies,3 Runes,,,
+Xyth,Zho,Djar,,,,+62.5% Damage to Burning,Ofensive,3 Runes,May require +125% Runeword Discovery,,
+Xyth,Zhu,Kyn,,,,+50% Bonus Health,Defensive,3 Runes,<25% Runeword Discovery,,
+Ydr,Dyr,Onh,,,,"+12.5% Lunar Damage
++20% Chance for Corrupted Soul Fragments","Ofensive, Utility",3 Runes,,,
+Ydr,Pok,Oda,,,,+5% Movement Speed,Utility,3 Runes,,25%,
+Ydr,Xal,Unh,,,,"12.5% Double Shot Chance
++35% Lunar Resistance","Utility, Defensive",3 Runes,,,
+Ydr,Xyth,Xyth,,,,+3 Max Lesser Allies,Allies,3 Runes,,,
+Ydr,Yth,Ody,Yiln,Xyl,Xyl,"+65% Movement Speed
++225% Damage to Burning","Utility, Ofensive",6 Runes,~125% RD,,
+Ydr,Yth,Ody,,,,+75% Barrier Recharge Rate,Defensive,3 Runes,~25% RD,,
+Yiln,Ath,Rath,Kar,Xol,,"+22.5% Movement Speed per Life Lost
++95% Resistance Piercing Chance","Ofensive, Utility",5 Runes,,,
+Yiln,Azh,Xul,,,,"+225% Artifact Damage
++30% Chance to Burn with Solar Damage","Burn, Artifact, Ofensive",3 Runes,,,
+Yiln,Bik,Dik,,,,+9 Max Companions,Allies,3 Runes,,,
+Yiln,Bik,Rath,,,,"+25% Artifact Damage
++180% Power Ability Damage
++45% Lunar Resistance","Power Ability, Artifact, Defensive",3 Runes,,,
+Yiln,Bik,Xal,,,,+100% Projectile Damage,Ofensive,3 Runes,,,
+Yiln,Dik,Bik,,,,"+300% Primary Attack Ability
++5% Chance for Soul Coins","Primary Ability, Utility, Ofensive",3 Runes,,,
+Yiln,Dik,Odu,,,,+450% Increased Reflected Damage to Elites,Reflect,3 Runes,,,
+Yiln,Dik,Ody,,,,+17.5% Damage increased per Life Lost,Ofensive,3 Runes,,0%,
+Yiln,Djar,Ody,,,,"+100% Lunar Damage
++5% Solar Resistance","Lunar Damage, Ofensive, Defensive, Good",3 Runes,Good on 1 slot Eldritch Weapons,,
+Yiln,Djar,Unh,Pok,Bik,,+56.25% Chance to Curse with Umbral damage,Curse,5 Runes,,,
+Yiln,Djar,Xyth,Ird,Pok,,"+62.5% Primal Damage
++50% Solar Damage","Primal Damage, Solar Damage, Ofensive",5 Runes,,,
+Yiln,Djur,Xol,,,,"+62.5% Lunar Damage
++1 Movement Charge","Lunar Damage, Ofensive, Movement Charge",3 Runes,,28%,
+Yiln,Ird,Bik,Rath,Ody,,+50% Damage to Healthy,"Ofensive, Unverified",5 Runes,,,
+Yiln,Ird,Lith,,,,+2.5% Movement Speed per Life Lost,Utility,3 Runes,,,
+Yiln,Ird,Xul,Djur,Unh,,"+10% Projectile Amount
++3 Movement Charges
++300% Increased Reflected Damage
++475% Ally Damage*","Allies, Ofensive, Reflect, Movement Charge, Utility",5 Runes,,,
+Yiln,Ird,Xul,Ujr,Unh,,+110% Increased Proc Chance,Utility,5 Runes,,,
+Yiln,Kar,Djar,,,,"+5% Movement Speed
++22.5% Double Shot Chance","Utility, Good",3 Runes,Good on 1 slot Eldritch Weapons,,
+Yiln,Kar,Ydr,,,,"+100% Primal Damge
++40% All Damage","Primal Damage, Ofensive",3 Runes,,,
+Yiln,Lith,Ody,Yth,Rath,,+10% Chance to spawn XP Soul,Utility,5 Runes,,,
+Yiln,Lith,Uth,,,,+22.5% Chance to Stun with Primal Damage,Stun,3 Runes,,,
+Yiln,Mak,Azh,Rath,Xyth,,"+14 Max Lesser Allies
++160% Ability Damage","Allies, Ofensive",5 Runes,,,
+Yiln,Oda,Ath,,,,+12.5% Damage to Curse,Ofensive,3 Runes,,0%,
+Yiln,Oda,Ody,Unh,Kar,,"+15% Damage per Life Lost
++125% Projectile Damage
++1000% Critical Hit Damage
++500% Primary Attack Ability Damage","Primary Ability, Ofensive",5 Runes,,,
+Yiln,Odo,Ujr,,,,+200% Movement Ability Damage,"Movement Ability, Ofensive",3 Runes,,,
+Yiln,Odu,Dik,,,,"+5 Max Lesser Allies
++22.5% Damage Increased per Life lost","Allies, Ofensive",3 Runes,,,
+Yiln,Odu,Ird,Unh,Xul,,+212.5% Lunar Damage,"Lunar Damage, Ofensive",5 Runes,,,
+Yiln,Ody,Dik,Bik,Xal,Kar,"+37.5% Damage Taken Staggered
++19.5 Soul Attract Range","Defensive, Utility",6 Runes,,,
+Yiln,Ody,Unh,Rath,Xyth,,"+18 Max Greater Ally
++75% Damage to Stunned
++17.5% Block Chance","Allies, Ofensive, Defensive",5 Runes,,,
+Yiln,Ody,Xol,,,,+200% Primary Attack Ability Damage,"Primary Ability, Ofensive",3 Runes,,,
+Yiln,Onh,Xyth,,,,+8 Max Greater Allies,Allies,3 Runes,,,
+Yiln,Pok,Djar,Ird,Xyth,,"+15% Chance to Burn with Solar damage
++198º Attack Arc","Burn, Utility",5 Runes,,,
+Yiln,Rath,Kar,Zir,Xol,Xol,+100% Chained Attack Steps,"Utility, Waste",6 Runes,,,
+Yiln,Rath,Unh,,,,"+250% Damage Reflected on Block
++50% Chained Attack Steps","Reflect, Utility",3 Runes,,,
+Yiln,Rath,Zir,Kar,Xol,,+237.5% Damage to Frozen,Ofensive,5 Runes,,,
+Yiln,Rath,Zir,,,,+5 Projectile Pierce,Ofensive,3 Runes,,,
+Yiln,Ujr,Djur,,,,+75% Damage Taken Staggered,Defensive,3 Runes,,,
+Yiln,Ujr,Xul,Ird,Unh,,+175% Ally Damage,"Allies, Ofensive",5 Runes,,,
+Yiln,Unh,Rath,Zir,Xol,,"+10% Ability Damage
++275% Bleed Rate Reduced","Ofensive, Defensive",5 Runes,,,
+Yiln,Unh,Rath,,,,+100% Damage to Healthy,Ofensive,3 Runes,,,
+Yiln,Unh,Yth,Odu,Rath,,+300% Critical Hit Damage,Ofensive,5 Runes,,,
+Yiln,Unh,Yth,,,,+8.75% Health on Kill,Defensive,3 Runes,,,
+Yiln,Xol,Odu,,,,+200% Increased Reflected damage to Elites,Reflect,3 Runes,,,
+Yiln,Xol,Rath,Zir,Kar,,+22.5% Chance to spawn Healing Soul,Defensive,5 Runes,,,
+Yiln,Xul,Uth,,,,+125% Damage to Burning,"Burn, Ofensive",3 Runes,,,
+Yiln,Xyth,Ird,Pok,Djar,,+175% Umbral Damage,"Umbral Damage, Ofensive",5 Runes,,,
+Yiln,Yth,Kyn,,,,+7 Max Lesser Allies,Allies,3 Runes,,,
+Yiln,Yth,Unh,Xal,Odu,Xal,"+100% Ability Damage
++750% Primary Ability Damage","Ofensive, Primary Ability",6 Runes,"Runes don't sinergize, effect good tho",,
+Yiln,Zhu,Ird,Uth,Xul,,"+95% Primal Resistance
++11 Max Companions
++20 Dodge Charges","Defensive, Allies, Dodge Charge",5 Runes,,,
+Yiln,Zir,Bik,,,,+40% Solar Resistance,Defensive,3 Runes,,,
+Yiln,Zir,Rath,Bik,Unh,Ody,+30% Projectile Split Chance,Utility,6 Runes,~100% RD,,
+Yiln,Zir,Rath,Kar,Onh,Xol,"+17.5% Block Chance
++100% Projectile Amount","Defensive, Ofensive",6 Runes,,,
+Yiln,Zir,Xol,,,,"+5 Projectile Pierce
++25% Chance to spawn Healing Soul","Ofensive, Defensive",3 Runes,,,
+Yiln,Zir,Xyth,,,,"+40% Attack Force
++125% Damage to Frozen",Ofensive,3 Runes,,0%,
+Yth,Bik,Dyr,,,,+5% Energy Cost Reduction,Utility,3 Runes,,,
+Yth,Lith,Kar,,,,"+150% Passive Ability Damage
++22.5% Chance for Corrupted Soul Fragments","Passive Ability, Ofensive, Utility",3 Runes,,,
+Yth,Oda,Lith,,,,+72º Attack Arc,Utility,3 Runes,,>50%,
+Yth,Oda,Xal,,,,"+80% Increased Proc Chance
++87.5% Damage to Frozen","Utility, Ofensive",3 Runes,,>50%,
+Yth,Ody,Bik,,,,+7 Movement Charges,Movement Charge,3 Runes,,,
+Yth,Ody,Kar,Zir,Yrk,,+90% Resistance Piercing Chance,Ofensive,5 Runes,,,
+Yth,Onh,Zhy,,,,+150% Ally Damage,Allies,3 Runes,,,
+Yth,Pok,Unh,,,,"+37.5% Chance to Curse with Umbral Damage
++2.5 Projectile Pierce","Curse, Utility",3 Runes,,10%,
+Yth,Unh,Onh,,,,+4 Movement Charges,"Utility, Movement Charge",3 Runes,,,
+Yth,Xal,Oda,,,,+3 Soul Attract Range,Utility,3 Runes,~100% RD,,
+Yth,Xyth,Ath,,,,+75% Increased Reflected Damage,Reflect,3 Runes,,>50%,
+Yth,Ydr,Xal,,,,+45% Projectile Duration,Utility,3 Runes,~100% RD,,
+Zha,Ath,Oda,,,,+22.5% Chance to Stun with Primal Damage,Stun,3 Runes,,,
+Zha,Ath,Yiln,Pok,Xal,,"+237.5% Damage to Burning
++80% All Damage",Ofensive,5 Runes,,,
+Zho,Djar,Xyth,,,,+22.5% Damage Taken Reduced per Life Lost,Defensive,3 Runes,May require +125% Runeword Discovery,,
+Zho,Ody,Yth,,,,+100% Barrier Amount,Defensive,3 Runes,May require +125% Runeword Discovery,,
+Zho,Oth,Kyn,,,,+22.5% Projectile Split Chance,Utility,3 Runes,,,
+Zho,Oth,Yiln,,,,+112.5% Damage Taken Staggered,"Defensive, Waste",3 Runes,,,
+Zho,Xyth,Djar,,,,+62.5% Damage to Frozen,Ofensive,3 Runes,<25% Runeword Discovery,,
+Zhu,Ath,Dik,,,,+100% Passive Ability Damage,"Passive Ability, Ofensive",3 Runes,May require +125% Runeword Discovery,,
+Zhu,Bik,Dik,,,,+37.5% Increased Reflected Damage,Reflect,3 Runes,,,
+Zhu,Ird,Yiln,,,,+200% Artifact Damage,"Artifact, Ofensive",3 Runes,,,
+Zhu,Kyn,Xyth,,,,+50% Bonus Health,Defensive,3 Runes,May require +125% Runeword Discovery,,
+Zhu,Uth,Djur,,,,+3 Max Companions,Allies,3 Runes,,,
+Zhu,Uth,Odu,,,,+17.5% Chacne to spawn Healing Soul,Defensive,3 Runes,,,
+Zhu,Yiln,Ird,Djar,Xyth,,+70% All Damage,Ofensive,5 Runes,,,
+Zhy,Rath,Xol,,,,+75% Damage to Cursed,Ofensive,3 Runes,,33%,
+Zir,Mak,Xal,,,,+8 Max Greater Allies,Allies,3 Runes,,,
+Zir,Mak,Yiln,Azh,Xyth,,"+20% All Damage
++360% Power Ability Damage
++45% Chance for Soul Coins","Ofensive, Power Ability, Utility",5 Runes,,25%,
+Zir,Mak,Yiln,,,,+300% Primary Attack Ability Damage,"Primary Ability, Ofensive",3 Runes,"Uses Yiln tho.
+<125% RD",,
+Zir,Odo,Xyth,,,,+200% Damage to Elites,Ofensive,3 Runes,,,
+Zir,Odu,Ath,,,,"+87.5% Damage Taken Staggered
++3 Movement Charges","Defensive, Movement Charge, Good",3 Runes,,,
+Zir,Pok,Dik,,,,+30% Projectile Amount,Ofensive,3 Runes,,,
+Zir,Pok,Yiln,Djar,Djur,,+33.75% Curse with Umbral Damage,Curse,5 Runes,,,
+Zir,Xol,Xol,,,,+30% Movement Charge Recharge Rate,Movement Ability,3 Runes,,,
+Zir,Yiln,Xyth,Onh,Rath,Yth,"+90% Lunar Resistance
++27.5% Damage Taken Reduced per Life Lost
++32.5% Energy Cost Reduction","Defensive, Utility",6 Runes,~100% RD,,
+Zir,Yiln,Xyth,Unh,Gul,Kar,+190% Chained Attack Steps,Utility,6 Runes,~100% RD,,
+Zir,Yiln,Xyth,Xyth,Oda,Xol,+12 Energy on Block,Waste,6 Runes,If only Nhalzur could block,,
+Zir,Yiln,Xyth,Yth,Odu,Ody,"+75% Chance for Rare Items
++50% Movement Charge Recharge Rate
++17.5% Movement Speed per Life Lost",Utility,6 Runes,~100% RD,,
+Zir,Yiln,Xyth,Yth,Odu,,+225% Barrier Recharge Rate,Defensive,5 Runes,~100% RD,,
+Zir,Yiln,Xyth,,,,+22.5% Attack Reach,Utility,3 Runes,~100% RD,,
+Zir,Yiln,Yrk,Ydr,Odu,,+7.5% Double Shot Chance,Utility,5 Runes,~100% RD,,
+Yiln,Rath,Zir,Bik,Unh,,+60% Solar Resistance,,5 Runes,~100% RD,,
+Yiln,Rath,Zir,Bik,Unh,Xyth,"+100% Bonus Health
++16 Max Greater Allies",,6 Runes,~100% RD,,
+Yiln,Rath,Zir,Xyth,Bik,,"+20% Chance to spawn XP Soul
++375% Projectile Damage",,5 Runes,~100% RD,,
+Yiln,Rath,Zir,Unh,Bik,Xyth,"+17 Energy on Block
++412.5% Increased Reflected Damage",,6 Runes,If only Nhalzur could block,,
+Yiln,Rath,Zir,Unh,Xyth,,+7.5% Critical Hit Chance,,5 Runes,~100% RD,,
+Yiln,Rath,Bik,Zir,Xyth,,+35% Chance for Corrupted Soul Fragments,,5 Runes,~100% RD,,
+Yiln,Rath,Bik,Zir,Xyth,Unh,+275% Passive Ability Damage,,6 Runes,~100% RD,,
+Yiln,Rath,Bik,Xyth,Zir,,+110% Movement Charge Recharge Rate,,5 Runes,~100% RD,,
+Yiln,Rath,Bik,Xyth,Zir,Unh,+160% Target Amount,,6 Runes,~100% RD,,
+Yiln,Rath,Bik,Unh,Zir,Xyth,"+70% Resistance Piercing Chance
++50% Chance to spawn XP Soul
++90% Movement Speed
++500% Barrier Recharge Rate",Good,6 Runes,~100% RD,,
+Yiln,Rath,Xyth,Zir,Bik,,"+275% Ally Damage
++27.5% Health Regeneration",,5 Runes,~100% RD,,
+Yiln,Rath,Xyth,Zir,Bik,Unh,"+32.5% Chance for Soul Coins
++15% Block Chance
++45% Chance to Burn with Solar Damage",,6 Runes,~100% RD,,
+Yiln,Rath,Xyth,Zir,Unh,,"+210% Damage to Injuried
++3 Max Greater Allies
++100% Passive Ability Damage",,5 Runes,~100% RD,,
+Yiln,Rath,Xyth,Zir,Unh,Bik,+17.5% Health Regeneration,,6 Runes,~100% RD,,
+Yiln,Rath,Xyth,Bik,Unh,Zir,"+33.75% Freeze with Lunar Damage
++41.25% Curse with Umbral Damage
++550% Increased Reflected Damage to Elites",,6 Runes,~100% RD,,
+Yiln,Rath,Xyth,Unh,Zir,,+15 Movement Charges,,5 Runes,~100% RD,,
+Yiln,Rath,Xyth,Unh,Zir,Bik,"+20% Attack Speed per Life Lost
++342º Attack Arc",,6 Runes,~100% RD,,
+Yiln,Rath,Xyth,Unh,Bik,Zir,"+150% Ally Damage
++2 Max Companions",,6 Runes,~100% RD,,
+Yiln,Rath,Unh,Zir,Xyth,,"+212.5% Damage to Curse
++47.5% Critical Hit Chance",,5 Runes,~100% RD,,
+Yiln,Rath,Unh,Bik,Zir,,+600% Ally Health,,5 Runes,~100% RD,,
+Yiln,Rath,Unh,Bik,Xyth,,+50% Projectile Duration,,5 Runes,~100% RD,,
+Yiln,Rath,Unh,Bik,Xyth,Zir,"+100% Chained Attack Steps
++7.5% Chance to Curse with Umbral Damage
++52.5% Chance to Burn With Solar Damage
++20 Max Lesser Allies",Good,6 Runes,~100% RD,,
+Yiln,Rath,Unh,Xyth,Zir,Bik,+20% Power Ability Damage,,6 Runes,~100% RD,,
+Yiln,Rath,Unh,Xyth,Bik,,+2.5 Projectile Pierce,,5 Runes,~100% RD,,
+Yiln,Rath,Unh,Xyth,Bik,Zir,"+170% Movement Charge Recharge Rate
++27.5% Critical Hit Chance
++15% Health on Kill",,6 Runes,~100% RD,,
+Yiln,Zir,Rath,Bik,Xyth,,"+250% Umbral Damage
++400% Primary Attack Ability Damage
++47.5% Health Regeneration",Powerful,5 Runes,~100% RD,,
+Yiln,Zir,Bik,Rath,Unh,Xyth,"+15% Energy Cost Reduction
++1000% Primary Ability Damage",,6 Runes,,0%,

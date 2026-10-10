@@ -1,0 +1,69 @@
+{
+  "families": [
+    {
+      "name": "Primordial Runes",
+      "runes": [
+        "Ath",
+        "Oda",
+        "Bik",
+        "Dik",
+        "Pok",
+        "Mak",
+        "Yrk",
+        "Anh",
+        "Adr"
+      ]
+    },
+    {
+      "name": "Sun Runes",
+      "runes": [
+        "Oth",
+        "Odo",
+        "Zir",
+        "Djar",
+        "Dyr",
+        "Rath",
+        "Kar",
+        "Onh"
+      ]
+    },
+    {
+      "name": "Moon Runes",
+      "runes": [
+        "Uth",
+        "Odu",
+        "Djur",
+        "Ujr",
+        "Ird",
+        "Azh",
+        "Unh"
+      ]
+    },
+    {
+      "name": "Abyss Runes",
+      "runes": [
+        "Yth",
+        "Ody",
+        "Kyn",
+        "Ydr",
+        "Lith"
+      ]
+    },
+    {
+      "name": "Elritch Runes",
+      "runes": [
+        "Yiln",
+        "Gul",
+        "Xyth",
+        "Xal",
+        "Xol",
+        "Xul",
+        "Xyl",
+        "Zha",
+        "Zho",
+        "Zhu",
+        "Zhy"
+      ]
+    }
+  ]
+}

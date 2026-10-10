@@ -1,0 +1,5960 @@
+{
+  "runewords": [
+    {
+      "id": "djar-yiln-pok-ird-xyth",
+      "runes": [
+        "Djar",
+        "Yiln",
+        "Pok",
+        "Ird",
+        "Xyth"
+      ],
+      "effects": [
+        "+3500% Damage Reflected on Block",
+        "+100% Damage to Elites"
+      ],
+      "tags": [
+        "Reflect"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": "Blockade"
+    },
+    {
+      "id": "gul-dik-uth",
+      "runes": [
+        "Gul",
+        "Dik",
+        "Uth"
+      ],
+      "effects": [
+        "+100% Damage Taken Staggered"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": "Blockade"
+    },
+    {
+      "id": "xol-xol-rath",
+      "runes": [
+        "Xol",
+        "Xol",
+        "Rath"
+      ],
+      "effects": [
+        "+80% All Damage"
+      ],
+      "tags": [
+        "Ofensive",
+        "Good"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "30%",
+      "rdValue": 30,
+      "build": "Blockade"
+    },
+    {
+      "id": "ydr-odo-xyth",
+      "runes": [
+        "Ydr",
+        "Odo",
+        "Xyth"
+      ],
+      "effects": [
+        "+15% Projectile Split Chance",
+        "+2000% Damage Reflected on Block"
+      ],
+      "tags": [
+        "Reflect",
+        "Utility",
+        "Good"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": "Blockade"
+    },
+    {
+      "id": "yiln-unh-gul-yth-ydr",
+      "runes": [
+        "Yiln",
+        "Unh",
+        "Gul",
+        "Yth",
+        "Ydr"
+      ],
+      "effects": [
+        "+180% Proc Chance Chance",
+        "+1500% Damage Reflected on Block",
+        "+200% Primary Attack Ability Damage"
+      ],
+      "tags": [
+        "Reflect",
+        "Utility",
+        "Primary Ability",
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "0~25% RD",
+      "rdHint": "0~25%",
+      "rdValue": 25,
+      "build": "Blockade"
+    },
+    {
+      "id": "lith-xyl-ody",
+      "runes": [
+        "Lith",
+        "Xyl",
+        "Ody"
+      ],
+      "effects": [
+        "+125% Solar Damage",
+        "+40% Power Ability Damage"
+      ],
+      "tags": [
+        "Power Ability",
+        "Ofensive",
+        "Solar Damage"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": "NecroAda"
+    },
+    {
+      "id": "mak-zhu-odu",
+      "runes": [
+        "Mak",
+        "Zhu",
+        "Odu"
+      ],
+      "effects": [
+        "+100% Projectile Damage",
+        "+12.5% Damage to Curse"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": "NecroAda"
+    },
+    {
+      "id": "ujr-ird-xul",
+      "runes": [
+        "Ujr",
+        "Ird",
+        "Xul"
+      ],
+      "effects": [
+        "+15% Double Shot Chance",
+        "+10% Solar Resistance"
+      ],
+      "tags": [
+        "Ofensive",
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": "NecroAda"
+    },
+    {
+      "id": "yiln-rath-zir-kar-xol-unh",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Zir",
+        "Kar",
+        "Xol",
+        "Unh"
+      ],
+      "effects": [
+        "+85% Chance to Spawn XP Soul",
+        "+67.5% Chance to Burn with Solar Damage"
+      ],
+      "tags": [
+        "Utility",
+        "Burn"
+      ],
+      "runeCount": 6,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": "NecroAda"
+    },
+    {
+      "id": "djar-zho-ird",
+      "runes": [
+        "Djar",
+        "Zho",
+        "Ird"
+      ],
+      "effects": [
+        "+25% Critical Chance",
+        "+250% Damage to Elites"
+      ],
+      "tags": [
+        "Ofensive",
+        "Powerful"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": "Soulstealer"
+    },
+    {
+      "id": "zhu-kyn-xyl",
+      "runes": [
+        "Zhu",
+        "Kyn",
+        "Xyl"
+      ],
+      "effects": [
+        "+10% Critical Hit Chance",
+        "+250% Projectile Damage"
+      ],
+      "tags": [
+        "Ofensive",
+        "Good"
+      ],
+      "runeCount": 3,
+      "notes": "May require +25% Runeword Discovery",
+      "rdHint": "+25%",
+      "rdValue": 25,
+      "build": "Soulstealer"
+    },
+    {
+      "id": "anh-gul-xal",
+      "runes": [
+        "Anh",
+        "Gul",
+        "Xal"
+      ],
+      "effects": [
+        "+20% Movement Charge Recharge Rate"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "anh-yiln-dik-djur-yrk",
+      "runes": [
+        "Anh",
+        "Yiln",
+        "Dik",
+        "Djur",
+        "Yrk"
+      ],
+      "effects": [
+        "+62.5% Umbral Damage",
+        "+3.75% Chance to Stun with Primal Damage",
+        "+70% Chance to spawn XP Soul"
+      ],
+      "tags": [
+        "Umbral Damage",
+        "Stun",
+        "Utility",
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ath-dik-xol",
+      "runes": [
+        "Ath",
+        "Dik",
+        "Xol"
+      ],
+      "effects": [
+        "+90% Ability Damage",
+        "+2 Energy on Block"
+      ],
+      "tags": [
+        "Ofensive",
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ath-kar-yiln",
+      "runes": [
+        "Ath",
+        "Kar",
+        "Yiln"
+      ],
+      "effects": [
+        "+7 Max Companions"
+      ],
+      "tags": [
+        "Allies",
+        "Waste"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ath-oda-odo",
+      "runes": [
+        "Ath",
+        "Oda",
+        "Odo"
+      ],
+      "effects": [
+        "+22.5% Chance for Corrupted Soul Fragments"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ath-oth-yrk",
+      "runes": [
+        "Ath",
+        "Oth",
+        "Yrk"
+      ],
+      "effects": [
+        "+600% Movement Ability Damage"
+      ],
+      "tags": [],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "ath-xal-ird",
+      "runes": [
+        "Ath",
+        "Xal",
+        "Ird"
+      ],
+      "effects": [
+        "+45% Resistance Piercing Chance"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ath-xal-xal",
+      "runes": [
+        "Ath",
+        "Xal",
+        "Xal"
+      ],
+      "effects": [
+        "+25% Damage to Burning",
+        "+22.5% Chance to Curse with Umbral Damage"
+      ],
+      "tags": [
+        "Curse",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ath-xyth-zir",
+      "runes": [
+        "Ath",
+        "Xyth",
+        "Zir"
+      ],
+      "effects": [
+        "+12.5% Damage to Curse",
+        "+5% Chance to spawn Healing Soul",
+        "+37.5% Lunar Damage"
+      ],
+      "tags": [
+        "Defensive",
+        "Lunar Damage",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ath-zha-zha",
+      "runes": [
+        "Ath",
+        "Zha",
+        "Zha"
+      ],
+      "effects": [
+        "+75% Solar Damage"
+      ],
+      "tags": [
+        "Solar Damage",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "azh-rath-yiln-xyth-mak",
+      "runes": [
+        "Azh",
+        "Rath",
+        "Yiln",
+        "Xyth",
+        "Mak"
+      ],
+      "effects": [
+        "+950% Primary Attack Ability Damage"
+      ],
+      "tags": [
+        "Primary Ability",
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "bik-oda-ydr",
+      "runes": [
+        "Bik",
+        "Oda",
+        "Ydr"
+      ],
+      "effects": [
+        "+150% Artifact Damage"
+      ],
+      "tags": [
+        "Artifact",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "32%",
+      "rdValue": 32,
+      "build": ""
+    },
+    {
+      "id": "bik-odu-oth",
+      "runes": [
+        "Bik",
+        "Odu",
+        "Oth"
+      ],
+      "effects": [
+        "+50% Projectile Damage"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "May require +125% Runeword Discovery",
+      "rdHint": "+125%",
+      "rdValue": 125,
+      "build": ""
+    },
+    {
+      "id": "bik-pok-dyr",
+      "runes": [
+        "Bik",
+        "Pok",
+        "Dyr"
+      ],
+      "effects": [
+        "+112.5% Damage Taken Staggered"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "bik-xal-xal",
+      "runes": [
+        "Bik",
+        "Xal",
+        "Xal"
+      ],
+      "effects": [
+        "+10% Chance for Soul Coins"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "25%",
+      "rdValue": 25,
+      "build": ""
+    },
+    {
+      "id": "dik-ath-odu",
+      "runes": [
+        "Dik",
+        "Ath",
+        "Odu"
+      ],
+      "effects": [
+        "+60 Power"
+      ],
+      "tags": [],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "dik-ody-xal",
+      "runes": [
+        "Dik",
+        "Ody",
+        "Xal"
+      ],
+      "effects": [
+        "+60% Damage to Healthy"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "dik-xal-oda",
+      "runes": [
+        "Dik",
+        "Xal",
+        "Oda"
+      ],
+      "effects": [
+        "+500% Critical Hit Damage",
+        "+25% Reduced Bleed Rate"
+      ],
+      "tags": [
+        "Ofensive",
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "May require +125% Runeword Discovery",
+      "rdHint": "+125%",
+      "rdValue": 125,
+      "build": ""
+    },
+    {
+      "id": "djar-djur-dyr",
+      "runes": [
+        "Djar",
+        "Djur",
+        "Dyr"
+      ],
+      "effects": [
+        "+140% Power Ability Damage"
+      ],
+      "tags": [
+        "Power Ability",
+        "Ofensive",
+        "Good"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "djar-pok-yrk",
+      "runes": [
+        "Djar",
+        "Pok",
+        "Yrk"
+      ],
+      "effects": [
+        "+900% Movement Ability Damage"
+      ],
+      "tags": [
+        "Movement Ability",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "djar-rath-xol",
+      "runes": [
+        "Djar",
+        "Rath",
+        "Xol"
+      ],
+      "effects": [
+        "+100% Projectile Damage"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "djar-xyth-zho",
+      "runes": [
+        "Djar",
+        "Xyth",
+        "Zho"
+      ],
+      "effects": [
+        "+100% Damage to Burning"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "<25% Runeword Discovery",
+      "rdHint": "<25%",
+      "rdValue": 25,
+      "build": ""
+    },
+    {
+      "id": "djar-yiln-xyth-ird-pok",
+      "runes": [
+        "Djar",
+        "Yiln",
+        "Xyth",
+        "Ird",
+        "Pok"
+      ],
+      "effects": [
+        "+2.5% Movement Speed per Life Lost",
+        "+50 Power",
+        "+412.5% Increased Reflected Damage"
+      ],
+      "tags": [
+        "Ofensive",
+        "Reflect",
+        "Utility"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "djar-yrk-pok",
+      "runes": [
+        "Djar",
+        "Yrk",
+        "Pok"
+      ],
+      "effects": [
+        "+17.5% Attack Reach"
+      ],
+      "tags": [
+        "Utility",
+        "Good"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "15%",
+      "rdValue": 15,
+      "build": ""
+    },
+    {
+      "id": "djur-pok-odu",
+      "runes": [
+        "Djur",
+        "Pok",
+        "Odu"
+      ],
+      "effects": [
+        "+50% All Damage"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "djur-pok-yiln-xyth-onh",
+      "runes": [
+        "Djur",
+        "Pok",
+        "Yiln",
+        "Xyth",
+        "Onh"
+      ],
+      "effects": [
+        "+85% Resistance Piercing Chance"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "djur-xyth-ydr",
+      "runes": [
+        "Djur",
+        "Xyth",
+        "Ydr"
+      ],
+      "effects": [
+        "+10% Chance to spawn XP Soul"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "gul-bik-xyth",
+      "runes": [
+        "Gul",
+        "Bik",
+        "Xyth"
+      ],
+      "effects": [
+        "+90% Movement Charge Recharge Rate"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": ">25%",
+      "rdValue": 25,
+      "build": ""
+    },
+    {
+      "id": "gul-dik-xyth",
+      "runes": [
+        "Gul",
+        "Dik",
+        "Xyth"
+      ],
+      "effects": [
+        "+90% Ability Damage",
+        "+50% Projectile Damage"
+      ],
+      "tags": [
+        "Ofensive",
+        "Good"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "gul-gul-odu",
+      "runes": [
+        "Gul",
+        "Gul",
+        "Odu"
+      ],
+      "effects": [
+        "+20% All Damage"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "gul-oda-bik",
+      "runes": [
+        "Gul",
+        "Oda",
+        "Bik"
+      ],
+      "effects": [
+        "+20% Health Regeneration"
+      ],
+      "tags": [],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "gul-pok-ydr",
+      "runes": [
+        "Gul",
+        "Pok",
+        "Ydr"
+      ],
+      "effects": [
+        "+150% Ally Damage"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "gul-uth-unh",
+      "runes": [
+        "Gul",
+        "Uth",
+        "Unh"
+      ],
+      "effects": [
+        "+20% Movement Speed"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "gul-ydr-djar",
+      "runes": [
+        "Gul",
+        "Ydr",
+        "Djar"
+      ],
+      "effects": [
+        "+7.5% Block Chance"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "gul-yth-xyth",
+      "runes": [
+        "Gul",
+        "Yth",
+        "Xyth"
+      ],
+      "effects": [
+        "+150% Ally Damage"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "May require +125% Runeword Discovery",
+      "rdHint": "+125%",
+      "rdValue": 125,
+      "build": ""
+    },
+    {
+      "id": "gul-zir-ydr",
+      "runes": [
+        "Gul",
+        "Zir",
+        "Ydr"
+      ],
+      "effects": [
+        "+70% Movement Charge Recharge Rate",
+        "+37.5% Umbral Damage"
+      ],
+      "tags": [
+        "Utility",
+        "Umbral Damage",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ird-odu-yth",
+      "runes": [
+        "Ird",
+        "Odu",
+        "Yth"
+      ],
+      "effects": [
+        "+12.5% Health on Kill"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ird-ujr-zhu",
+      "runes": [
+        "Ird",
+        "Ujr",
+        "Zhu"
+      ],
+      "effects": [
+        "+12 Soul Attract Range"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ird-xul-ujr",
+      "runes": [
+        "Ird",
+        "Xul",
+        "Ujr"
+      ],
+      "effects": [
+        "+25% Passive Ability Damage",
+        "+15% Chance to Freeze with Lunar Damage"
+      ],
+      "tags": [
+        "Passive Ability",
+        "Ofensive",
+        "Freeze"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ird-yiln-djar-xyth-pok",
+      "runes": [
+        "Ird",
+        "Yiln",
+        "Djar",
+        "Xyth",
+        "Pok"
+      ],
+      "effects": [
+        "+125% Damage Taken Staggered",
+        "+750% Increased Reflected Damage"
+      ],
+      "tags": [
+        "Defensive",
+        "Reflect"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ird-yiln-djar",
+      "runes": [
+        "Ird",
+        "Yiln",
+        "Djar"
+      ],
+      "effects": [
+        "+18.75% Chance to Freeze with Lunar Damage"
+      ],
+      "tags": [
+        "Freeze"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ird-yiln-pok-xyth-djar",
+      "runes": [
+        "Ird",
+        "Yiln",
+        "Pok",
+        "Xyth",
+        "Djar"
+      ],
+      "effects": [
+        "+200% All Damage"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ird-yiln-pok",
+      "runes": [
+        "Ird",
+        "Yiln",
+        "Pok"
+      ],
+      "effects": [
+        "+400% Critical Hit Damage"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ird-yiln-xyth",
+      "runes": [
+        "Ird",
+        "Yiln",
+        "Xyth"
+      ],
+      "effects": [
+        "+30% Ability Damage",
+        "+40% Chance to spawn XP Soul"
+      ],
+      "tags": [
+        "Ofensive",
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ird-yiln-ydr-xyth-rath",
+      "runes": [
+        "Ird",
+        "Yiln",
+        "Ydr",
+        "Xyth",
+        "Rath"
+      ],
+      "effects": [
+        "+10% Movement Speed per Life Lost"
+      ],
+      "tags": [],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "ird-yiln-ydr",
+      "runes": [
+        "Ird",
+        "Yiln",
+        "Ydr"
+      ],
+      "effects": [
+        "+20% Power Ability Damage"
+      ],
+      "tags": [],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "ird-yiln-zir",
+      "runes": [
+        "Ird",
+        "Yiln",
+        "Zir"
+      ],
+      "effects": [
+        "+225% Artifact Damage",
+        "+3 Movement Charges"
+      ],
+      "tags": [
+        "Ofensive",
+        "Artifact",
+        "Movement Charge"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ird-zho-djar",
+      "runes": [
+        "Ird",
+        "Zho",
+        "Djar"
+      ],
+      "effects": [
+        "+200% Barrier Recharge Rate"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "Between 25-125% Runeword Discovery",
+      "rdHint": "25-125%",
+      "rdValue": 125,
+      "build": ""
+    },
+    {
+      "id": "kar-oda-rath",
+      "runes": [
+        "Kar",
+        "Oda",
+        "Rath"
+      ],
+      "effects": [
+        "+30% Damage to Injuried",
+        "+200% Power Ability Damage"
+      ],
+      "tags": [
+        "Power Ability",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "kar-odu-oth",
+      "runes": [
+        "Kar",
+        "Odu",
+        "Oth"
+      ],
+      "effects": [
+        "+90% All Damage",
+        "+15 Soul Attract Range"
+      ],
+      "tags": [
+        "Ofensive",
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "kar-rath-yiln-zir-xol",
+      "runes": [
+        "Kar",
+        "Rath",
+        "Yiln",
+        "Zir",
+        "Xol"
+      ],
+      "effects": [
+        "+2.5% Block Chance",
+        "+1400% Movement Ability Damage"
+      ],
+      "tags": [
+        "Defensive",
+        "Movement Ability",
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "lith-gul-gul",
+      "runes": [
+        "Lith",
+        "Gul",
+        "Gul"
+      ],
+      "effects": [
+        "+200% Primary Attack Ability Damage",
+        "+22.5% Double Shot Chance"
+      ],
+      "tags": [
+        "Primary Ability",
+        "Utility",
+        "Powerful"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "33%",
+      "rdValue": 33,
+      "build": ""
+    },
+    {
+      "id": "lith-unh-odu",
+      "runes": [
+        "Lith",
+        "Unh",
+        "Odu"
+      ],
+      "effects": [
+        "+600% Movement Ability Damage",
+        "+50% Passive Ability Damage"
+      ],
+      "tags": [
+        "Passive Ability",
+        "Movement Ability",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "lith-xol-xal",
+      "runes": [
+        "Lith",
+        "Xol",
+        "Xal"
+      ],
+      "effects": [
+        "+2.5% Energy Cost Reduction"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "May require +125% Runeword Discovery",
+      "rdHint": "+125%",
+      "rdValue": 125,
+      "build": ""
+    },
+    {
+      "id": "lith-xyl-gul",
+      "runes": [
+        "Lith",
+        "Xyl",
+        "Gul"
+      ],
+      "effects": [
+        "+15% Primal Resistance",
+        "+8 Dodge Charges"
+      ],
+      "tags": [
+        "Defensive",
+        "Dodge Charge"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "40%",
+      "rdValue": 40,
+      "build": ""
+    },
+    {
+      "id": "lith-xyl-yiln-yth-ody",
+      "runes": [
+        "Lith",
+        "Xyl",
+        "Yiln",
+        "Yth",
+        "Ody"
+      ],
+      "effects": [
+        "+100% Critical Hit Damage",
+        "+10 Max Companions",
+        "+150% Chained Attack Steps"
+      ],
+      "tags": [
+        "Ofensive",
+        "Allies"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "lith-zir-xyth",
+      "runes": [
+        "Lith",
+        "Zir",
+        "Xyth"
+      ],
+      "effects": [
+        "+11.25% Chance to Curse with Umbral Damage",
+        "+30% Chance to spawn an XP Soul"
+      ],
+      "tags": [
+        "Curse",
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "mak-zir-azh",
+      "runes": [
+        "Mak",
+        "Zir",
+        "Azh"
+      ],
+      "effects": [
+        "+60% Power Ability Damage"
+      ],
+      "tags": [
+        "Power Ability",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "oda-dik-yth",
+      "runes": [
+        "Oda",
+        "Dik",
+        "Yth"
+      ],
+      "effects": [
+        "+10% Target Amount"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "oda-ody-unh",
+      "runes": [
+        "Oda",
+        "Ody",
+        "Unh"
+      ],
+      "effects": [
+        "+87.5% Damage to Burning"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "oda-unh-ody",
+      "runes": [
+        "Oda",
+        "Unh",
+        "Ody"
+      ],
+      "effects": [
+        "+1 Dodge Charge",
+        "+250% Reduced Bleed Rate",
+        "+22.5% Chance to spawn Healing Soul"
+      ],
+      "tags": [
+        "Defensive",
+        "Dodge Charge"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "oda-uth-yiln-xol-dik",
+      "runes": [
+        "Oda",
+        "Uth",
+        "Yiln",
+        "Xol",
+        "Dik"
+      ],
+      "effects": [
+        "+5 Energy on Block",
+        "+300% Reduced Bleed Rate"
+      ],
+      "tags": [
+        "Utility",
+        "Defensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "oda-xol-kar",
+      "runes": [
+        "Oda",
+        "Xol",
+        "Kar"
+      ],
+      "effects": [
+        "+60% Attack Force"
+      ],
+      "tags": [],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "oda-xol-odo",
+      "runes": [
+        "Oda",
+        "Xol",
+        "Odo"
+      ],
+      "effects": [
+        "+37.5% Damage to Burning"
+      ],
+      "tags": [],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "oda-ydr-ath",
+      "runes": [
+        "Oda",
+        "Ydr",
+        "Ath"
+      ],
+      "effects": [
+        "+90 Power",
+        "+62.5% Damage to Frozen"
+      ],
+      "tags": [
+        "Ofensive",
+        "Powerful"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "oda-yiln-bik-oth-anh",
+      "runes": [
+        "Oda",
+        "Yiln",
+        "Bik",
+        "Oth",
+        "Anh"
+      ],
+      "effects": [
+        "+18.75% Chance to Stun with Primal Damage"
+      ],
+      "tags": [
+        "Stun"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "oda-yiln-bik",
+      "runes": [
+        "Oda",
+        "Yiln",
+        "Bik"
+      ],
+      "effects": [
+        "+60% All Damage"
+      ],
+      "tags": [
+        "Ofensive",
+        "Waste"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "odo-gul-dik",
+      "runes": [
+        "Odo",
+        "Gul",
+        "Dik"
+      ],
+      "effects": [
+        "+87.5% Lunar Damage"
+      ],
+      "tags": [],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "odo-oda-xyth",
+      "runes": [
+        "Odo",
+        "Oda",
+        "Xyth"
+      ],
+      "effects": [
+        "+112.5% Chance for Rare Items"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "May require +125% Runeword Discovery",
+      "rdHint": "+125%",
+      "rdValue": 125,
+      "build": ""
+    },
+    {
+      "id": "odo-ody-onh",
+      "runes": [
+        "Odo",
+        "Ody",
+        "Onh"
+      ],
+      "effects": [
+        "+10% Proc Chance",
+        "+2.5 Projectile Pierce"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": ">50%",
+      "rdValue": 50,
+      "build": ""
+    },
+    {
+      "id": "odo-oth-djar",
+      "runes": [
+        "Odo",
+        "Oth",
+        "Djar"
+      ],
+      "effects": [
+        "+150% Primary Attack Ability Damage",
+        "+45% Movement Speed"
+      ],
+      "tags": [
+        "Primary Ability",
+        "Ofensive",
+        "Utility",
+        "Good"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "odo-yiln-kar",
+      "runes": [
+        "Odo",
+        "Yiln",
+        "Kar"
+      ],
+      "effects": [
+        "+10% Projectile Duration"
+      ],
+      "tags": [
+        "Utility",
+        "Waste"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "odu-dik-ird",
+      "runes": [
+        "Odu",
+        "Dik",
+        "Ird"
+      ],
+      "effects": [
+        "+30% Chance to Burn with Solar Damage"
+      ],
+      "tags": [
+        "Burn"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "odu-lith-odo",
+      "runes": [
+        "Odu",
+        "Lith",
+        "Odo"
+      ],
+      "effects": [
+        "+25% Double Shot Chance"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": ">50%",
+      "rdValue": 50,
+      "build": ""
+    },
+    {
+      "id": "odu-rath-unh",
+      "runes": [
+        "Odu",
+        "Rath",
+        "Unh"
+      ],
+      "effects": [
+        "+1 Energy on Block"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "odu-xul-uth",
+      "runes": [
+        "Odu",
+        "Xul",
+        "Uth"
+      ],
+      "effects": [
+        "+250% Passive Ability Damage"
+      ],
+      "tags": [
+        "Passive Ability",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "odu-zir-onh",
+      "runes": [
+        "Odu",
+        "Zir",
+        "Onh"
+      ],
+      "effects": [
+        "+50% Solar Damage"
+      ],
+      "tags": [
+        "Solar Damage",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ody-bik-pok",
+      "runes": [
+        "Ody",
+        "Bik",
+        "Pok"
+      ],
+      "effects": [
+        "+50% Critical Hit Damage"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ody-kar-ydr",
+      "runes": [
+        "Ody",
+        "Kar",
+        "Ydr"
+      ],
+      "effects": [
+        "+12.5% Chance for Rare Items",
+        "+7.5% Block Chance"
+      ],
+      "tags": [],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "ody-lith-ird",
+      "runes": [
+        "Ody",
+        "Lith",
+        "Ird"
+      ],
+      "effects": [
+        "+20% Ability Damage"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ody-odo-yth",
+      "runes": [
+        "Ody",
+        "Odo",
+        "Yth"
+      ],
+      "effects": [
+        "+30% Ability Damage"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "ody-xal-rath",
+      "runes": [
+        "Ody",
+        "Xal",
+        "Rath"
+      ],
+      "effects": [
+        "+125% Damage Taken Staggered"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ody-xyl-xyl",
+      "runes": [
+        "Ody",
+        "Xyl",
+        "Xyl"
+      ],
+      "effects": [
+        "+30% Movement Speed",
+        "+70% All Damage"
+      ],
+      "tags": [
+        "Ofensive",
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ody-yiln-dik-bik-oda",
+      "runes": [
+        "Ody",
+        "Yiln",
+        "Dik",
+        "Bik",
+        "Oda"
+      ],
+      "effects": [
+        "+150% Reduced Bleed Rate"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ody-yth-ydr",
+      "runes": [
+        "Ody",
+        "Yth",
+        "Ydr"
+      ],
+      "effects": [
+        "+75% Lunar Damage"
+      ],
+      "tags": [
+        "Lunar Damage",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "~25% RD",
+      "rdHint": "~25%",
+      "rdValue": 25,
+      "build": ""
+    },
+    {
+      "id": "ody-yth-zhy",
+      "runes": [
+        "Ody",
+        "Yth",
+        "Zhy"
+      ],
+      "effects": [
+        "+112.5% Damage Taken Staggered"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "onh-dyr-yrk",
+      "runes": [
+        "Onh",
+        "Dyr",
+        "Yrk"
+      ],
+      "effects": [
+        "+8 Max Greater Allies"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "onh-gul-ody",
+      "runes": [
+        "Onh",
+        "Gul",
+        "Ody"
+      ],
+      "effects": [
+        "+25% Energy Cost Reduction"
+      ],
+      "tags": [
+        "Utility",
+        "Good"
+      ],
+      "runeCount": 3,
+      "notes": "May require +125% Runeword Discovery",
+      "rdHint": "+125%",
+      "rdValue": 125,
+      "build": ""
+    },
+    {
+      "id": "onh-xyth-xyth",
+      "runes": [
+        "Onh",
+        "Xyth",
+        "Xyth"
+      ],
+      "effects": [
+        "+17.5% Chance to spawn Healing Soul"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "30%",
+      "rdValue": 30,
+      "build": ""
+    },
+    {
+      "id": "oth-bik-zir",
+      "runes": [
+        "Oth",
+        "Bik",
+        "Zir"
+      ],
+      "effects": [
+        "+5 Energy on Block",
+        "+5 Projectile Pierce"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "oth-dyr-djur",
+      "runes": [
+        "Oth",
+        "Dyr",
+        "Djur"
+      ],
+      "effects": [
+        "+6 Max Greater Allies",
+        "+200% Power Ability Damage"
+      ],
+      "tags": [
+        "Allies",
+        "Power Ability",
+        "Good"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "oth-oda-djar",
+      "runes": [
+        "Oth",
+        "Oda",
+        "Djar"
+      ],
+      "effects": [
+        "+87.5% Damage to Curse"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "oth-odo-ydr",
+      "runes": [
+        "Oth",
+        "Odo",
+        "Ydr"
+      ],
+      "effects": [
+        "+8 Movement Charges"
+      ],
+      "tags": [
+        "Movement Charge"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "15%",
+      "rdValue": 15,
+      "build": ""
+    },
+    {
+      "id": "oth-onh-anh",
+      "runes": [
+        "Oth",
+        "Onh",
+        "Anh"
+      ],
+      "effects": [
+        "+112.5% Solar Damage"
+      ],
+      "tags": [
+        "Solar Damage",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "oth-rath-xyth",
+      "runes": [
+        "Oth",
+        "Rath",
+        "Xyth"
+      ],
+      "effects": [
+        "+12.5% Movement Speed per Life Lost",
+        "+25% Chance to spawn Healing Soul"
+      ],
+      "tags": [
+        "Utility",
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "oth-xol-xol",
+      "runes": [
+        "Oth",
+        "Xol",
+        "Xol"
+      ],
+      "effects": [
+        "+8 Max Lesser Allies",
+        "+15% Double Shot Chance"
+      ],
+      "tags": [
+        "Ofensive",
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "oth-yth-odo",
+      "runes": [
+        "Oth",
+        "Yth",
+        "Odo"
+      ],
+      "effects": [
+        "+12.5% Attack Reach"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "oth-yth-odu",
+      "runes": [
+        "Oth",
+        "Yth",
+        "Odu"
+      ],
+      "effects": [
+        "+15% Projectile Split Chance"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "pok-odu-ath",
+      "runes": [
+        "Pok",
+        "Odu",
+        "Ath"
+      ],
+      "effects": [
+        "+40% Chained Attack Steps"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "pok-yiln-djar",
+      "runes": [
+        "Pok",
+        "Yiln",
+        "Djar"
+      ],
+      "effects": [
+        "+50% Ally Damage"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "pok-yiln-ird-djar-xyth",
+      "runes": [
+        "Pok",
+        "Yiln",
+        "Ird",
+        "Djar",
+        "Xyth"
+      ],
+      "effects": [
+        "+95% Projectile Duration"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "pok-yiln-xyth",
+      "runes": [
+        "Pok",
+        "Yiln",
+        "Xyth"
+      ],
+      "effects": [
+        "+150% Projectile Damage",
+        "+6.25% Health on Kill"
+      ],
+      "tags": [
+        "Ofensive",
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "rath-ath-pok",
+      "runes": [
+        "Rath",
+        "Ath",
+        "Pok"
+      ],
+      "effects": [
+        "+10 Max Lesser Allies"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "rath-azh-mak",
+      "runes": [
+        "Rath",
+        "Azh",
+        "Mak"
+      ],
+      "effects": [
+        "+7 Max Companions"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "rath-lith-xyl",
+      "runes": [
+        "Rath",
+        "Lith",
+        "Xyl"
+      ],
+      "effects": [
+        "+30% Chance to Curse with Umbral Damage"
+      ],
+      "tags": [
+        "Curse",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "rath-ody-kyn",
+      "runes": [
+        "Rath",
+        "Ody",
+        "Kyn"
+      ],
+      "effects": [
+        "+150% Increased Reflected Damage"
+      ],
+      "tags": [
+        "Reflect"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "rath-ody-xal",
+      "runes": [
+        "Rath",
+        "Ody",
+        "Xal"
+      ],
+      "effects": [
+        "+40% Primal Resistance"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": ">50%",
+      "rdValue": 50,
+      "build": ""
+    },
+    {
+      "id": "rath-unh-bik",
+      "runes": [
+        "Rath",
+        "Unh",
+        "Bik"
+      ],
+      "effects": [
+        "+10% Damage increased per Life Lost"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "rath-xol-yiln",
+      "runes": [
+        "Rath",
+        "Xol",
+        "Yiln"
+      ],
+      "effects": [
+        "+15% Attack Reach"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "rath-xol-zhy",
+      "runes": [
+        "Rath",
+        "Xol",
+        "Zhy"
+      ],
+      "effects": [
+        "+25% Damage to Stunned",
+        "+25% Chance for Rare Items"
+      ],
+      "tags": [
+        "Ofensive",
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "15%",
+      "rdValue": 15,
+      "build": ""
+    },
+    {
+      "id": "rath-xol-zir",
+      "runes": [
+        "Rath",
+        "Xol",
+        "Zir"
+      ],
+      "effects": [
+        "+22.5% Movement Speed per Life Lost"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "rath-ydr-xyth",
+      "runes": [
+        "Rath",
+        "Ydr",
+        "Xyth"
+      ],
+      "effects": [
+        "+25% Passive Ability Damage"
+      ],
+      "tags": [],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "rath-yiln-ath-xol-kar",
+      "runes": [
+        "Rath",
+        "Yiln",
+        "Ath",
+        "Xol",
+        "Kar"
+      ],
+      "effects": [
+        "+40% Chance to spawn XP Soul",
+        "+37.5% Damage to Cursed",
+        "+100% Target Amount"
+      ],
+      "tags": [
+        "Ofensive",
+        "Utility"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "rath-yth-odu",
+      "runes": [
+        "Rath",
+        "Yth",
+        "Odu"
+      ],
+      "effects": [
+        "+40% Movement Charge Recharge Rate",
+        "+30% Chance to spawn XP Soul"
+      ],
+      "tags": [],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "rath-yth-xyl",
+      "runes": [
+        "Rath",
+        "Yth",
+        "Xyl"
+      ],
+      "effects": [
+        "+100% Damage to Healthy"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "rath-zhy-xol",
+      "runes": [
+        "Rath",
+        "Zhy",
+        "Xol"
+      ],
+      "effects": [
+        "+12.5% Health Regeneration",
+        "+125% Primal Damage"
+      ],
+      "tags": [
+        "Defensive",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "25%",
+      "rdValue": 25,
+      "build": ""
+    },
+    {
+      "id": "ujr-djur-xul",
+      "runes": [
+        "Ujr",
+        "Djur",
+        "Xul"
+      ],
+      "effects": [
+        "+5% Solar Resistance",
+        "+12.5% Damage Taken Reduced per Life Lost"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ujr-pok-xyth",
+      "runes": [
+        "Ujr",
+        "Pok",
+        "Xyth"
+      ],
+      "effects": [
+        "+1 Projectile Pierce",
+        "+300% Barrier Amount"
+      ],
+      "tags": [
+        "Defensive",
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": ">25%",
+      "rdValue": 25,
+      "build": ""
+    },
+    {
+      "id": "unh-gul-odu",
+      "runes": [
+        "Unh",
+        "Gul",
+        "Odu"
+      ],
+      "effects": [
+        "+100% Projectile Damage"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "unh-oda-xol",
+      "runes": [
+        "Unh",
+        "Oda",
+        "Xol"
+      ],
+      "effects": [
+        "+25% Lunar Resistance"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "unh-odo-odu",
+      "runes": [
+        "Unh",
+        "Odo",
+        "Odu"
+      ],
+      "effects": [
+        "+160% Power Ability Damage",
+        "+250% Primary Attack Ability Damage"
+      ],
+      "tags": [
+        "Primary Ability",
+        "Power Ability",
+        "Ofensive",
+        "Powerful"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "unh-uth-ath",
+      "runes": [
+        "Unh",
+        "Uth",
+        "Ath"
+      ],
+      "effects": [
+        "+7.5% Double Shot Chance"
+      ],
+      "tags": [],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "uth-kar-unh",
+      "runes": [
+        "Uth",
+        "Kar",
+        "Unh"
+      ],
+      "effects": [
+        "+5 Energy on Block"
+      ],
+      "tags": [],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "uth-ody-rath",
+      "runes": [
+        "Uth",
+        "Ody",
+        "Rath"
+      ],
+      "effects": [
+        "+30% Projectile Duration"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "uth-ody-xyth",
+      "runes": [
+        "Uth",
+        "Ody",
+        "Xyth"
+      ],
+      "effects": [
+        "+800% Movement Ability Damage"
+      ],
+      "tags": [
+        "Movement Ability",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "10%",
+      "rdValue": 10,
+      "build": ""
+    },
+    {
+      "id": "uth-oth-ydr",
+      "runes": [
+        "Uth",
+        "Oth",
+        "Ydr"
+      ],
+      "effects": [
+        "+26.25% Chance to Freeze with Lunar Damage",
+        "+1000% Damage Reflected on Block"
+      ],
+      "tags": [
+        "Freeze",
+        "Reflect"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "uth-xyth-dik",
+      "runes": [
+        "Uth",
+        "Xyth",
+        "Dik"
+      ],
+      "effects": [
+        "+6 Max Companions"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "10%",
+      "rdValue": 10,
+      "build": ""
+    },
+    {
+      "id": "xal-bik-yrk",
+      "runes": [
+        "Xal",
+        "Bik",
+        "Yrk"
+      ],
+      "effects": [
+        "+22.5% Movement Speed per Life Lost",
+        "+112.5% Solar Damage"
+      ],
+      "tags": [
+        "Solar Damage",
+        "Utility",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "xal-djar-djur",
+      "runes": [
+        "Xal",
+        "Djar",
+        "Djur"
+      ],
+      "effects": [
+        "+5% Double Shot Chance"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "xal-oda-djur",
+      "runes": [
+        "Xal",
+        "Oda",
+        "Djur"
+      ],
+      "effects": [
+        "+50% Movement Speed",
+        "+175% Artifact Damage"
+      ],
+      "tags": [
+        "Utility",
+        "Artifact"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": ">50%",
+      "rdValue": 50,
+      "build": ""
+    },
+    {
+      "id": "xal-oda-yrk",
+      "runes": [
+        "Xal",
+        "Oda",
+        "Yrk"
+      ],
+      "effects": [
+        "+25% Energy Cost Reduction"
+      ],
+      "tags": [
+        "Utility",
+        "Good"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "xal-ody-anh",
+      "runes": [
+        "Xal",
+        "Ody",
+        "Anh"
+      ],
+      "effects": [
+        "+37.5% Chance to Curse with Umbral Damage"
+      ],
+      "tags": [
+        "Curse"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "xal-oth-yiln",
+      "runes": [
+        "Xal",
+        "Oth",
+        "Yiln"
+      ],
+      "effects": [
+        "+40% Attack Force",
+        "+2.5% Chance to spawn Healing Soul"
+      ],
+      "tags": [
+        "Utility",
+        "Ofensive",
+        "Waste"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "xal-xol-rath",
+      "runes": [
+        "Xal",
+        "Xol",
+        "Rath"
+      ],
+      "effects": [
+        "+1.5 Projectile Pierce"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "5%",
+      "rdValue": 5,
+      "build": ""
+    },
+    {
+      "id": "xol-ath-oth",
+      "runes": [
+        "Xol",
+        "Ath",
+        "Oth"
+      ],
+      "effects": [
+        "+2.5% Chance for Soul Coins"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "xol-odo-unh",
+      "runes": [
+        "Xol",
+        "Odo",
+        "Unh"
+      ],
+      "effects": [
+        "+37.5% Chance for Rare Items",
+        "+100% Lunar Damage"
+      ],
+      "tags": [],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "xol-rath-unh",
+      "runes": [
+        "Xol",
+        "Rath",
+        "Unh"
+      ],
+      "effects": [
+        "+100% Damage to Healthy"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "32%",
+      "rdValue": 32,
+      "build": ""
+    },
+    {
+      "id": "xol-xal-rath",
+      "runes": [
+        "Xol",
+        "Xal",
+        "Rath"
+      ],
+      "effects": [
+        "+80% Attack Force"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "xol-xol-kyn",
+      "runes": [
+        "Xol",
+        "Xol",
+        "Kyn"
+      ],
+      "effects": [
+        "+500% Primary Attack Ability Damage"
+      ],
+      "tags": [
+        "Primary Ability",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "xol-zir-oth",
+      "runes": [
+        "Xol",
+        "Zir",
+        "Oth"
+      ],
+      "effects": [
+        "+100% Lunar Damage"
+      ],
+      "tags": [
+        "Lunar Damage",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "xyth-dik-gul",
+      "runes": [
+        "Xyth",
+        "Dik",
+        "Gul"
+      ],
+      "effects": [
+        "+500% Increased Reflected Damage to Elites",
+        "+70 Power"
+      ],
+      "tags": [
+        "Reflect",
+        "Ofensive",
+        "Good"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "xyth-djar-zho",
+      "runes": [
+        "Xyth",
+        "Djar",
+        "Zho"
+      ],
+      "effects": [
+        "+2.5% Block Chance",
+        "+10 Max Companions"
+      ],
+      "tags": [
+        "Defensive",
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "Require >25% Runeword Discovery",
+      "rdHint": ">25%",
+      "rdValue": 25,
+      "build": ""
+    },
+    {
+      "id": "xyth-gul-uth",
+      "runes": [
+        "Xyth",
+        "Gul",
+        "Uth"
+      ],
+      "effects": [
+        "+125% Damage to Frozen"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "xyth-kar-oda",
+      "runes": [
+        "Xyth",
+        "Kar",
+        "Oda"
+      ],
+      "effects": [
+        "+3 Max Greater Allies"
+      ],
+      "tags": [],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "xyth-oth-xal",
+      "runes": [
+        "Xyth",
+        "Oth",
+        "Xal"
+      ],
+      "effects": [
+        "+3 Projectile Pierce"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "xyth-pok-ujr",
+      "runes": [
+        "Xyth",
+        "Pok",
+        "Ujr"
+      ],
+      "effects": [
+        "+2.5% Health on Kill"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": ">25%",
+      "rdValue": 25,
+      "build": ""
+    },
+    {
+      "id": "xyth-rath-dik-yiln-unh",
+      "runes": [
+        "Xyth",
+        "Rath",
+        "Dik",
+        "Yiln",
+        "Unh"
+      ],
+      "effects": [
+        "+90 Power"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "Can only exist within Nhalzûr. Last spot must be open.",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "xyth-xal-pok",
+      "runes": [
+        "Xyth",
+        "Xal",
+        "Pok"
+      ],
+      "effects": [
+        "+75% Damage to Elites"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "xyth-xyth-zir",
+      "runes": [
+        "Xyth",
+        "Xyth",
+        "Zir"
+      ],
+      "effects": [
+        "+750% Damage Reflected on Block"
+      ],
+      "tags": [
+        "Reflect"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "xyth-ydr-ath",
+      "runes": [
+        "Xyth",
+        "Ydr",
+        "Ath"
+      ],
+      "effects": [
+        "+5% Health on Kill"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "xyth-yiln-ird",
+      "runes": [
+        "Xyth",
+        "Yiln",
+        "Ird"
+      ],
+      "effects": [
+        "+25% Reduced Bleed Rate"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "xyth-yiln-odo",
+      "runes": [
+        "Xyth",
+        "Yiln",
+        "Odo"
+      ],
+      "effects": [
+        "+6 Max Companions"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "xyth-zho-djar",
+      "runes": [
+        "Xyth",
+        "Zho",
+        "Djar"
+      ],
+      "effects": [
+        "+62.5% Damage to Burning"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "May require +125% Runeword Discovery",
+      "rdHint": "+125%",
+      "rdValue": 125,
+      "build": ""
+    },
+    {
+      "id": "xyth-zhu-kyn",
+      "runes": [
+        "Xyth",
+        "Zhu",
+        "Kyn"
+      ],
+      "effects": [
+        "+50% Bonus Health"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "<25% Runeword Discovery",
+      "rdHint": "<25%",
+      "rdValue": 25,
+      "build": ""
+    },
+    {
+      "id": "ydr-dyr-onh",
+      "runes": [
+        "Ydr",
+        "Dyr",
+        "Onh"
+      ],
+      "effects": [
+        "+12.5% Lunar Damage",
+        "+20% Chance for Corrupted Soul Fragments"
+      ],
+      "tags": [
+        "Ofensive",
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ydr-pok-oda",
+      "runes": [
+        "Ydr",
+        "Pok",
+        "Oda"
+      ],
+      "effects": [
+        "+5% Movement Speed"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "25%",
+      "rdValue": 25,
+      "build": ""
+    },
+    {
+      "id": "ydr-xal-unh",
+      "runes": [
+        "Ydr",
+        "Xal",
+        "Unh"
+      ],
+      "effects": [
+        "12.5% Double Shot Chance",
+        "+35% Lunar Resistance"
+      ],
+      "tags": [
+        "Utility",
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ydr-xyth-xyth",
+      "runes": [
+        "Ydr",
+        "Xyth",
+        "Xyth"
+      ],
+      "effects": [
+        "+3 Max Lesser Allies"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "ydr-yth-ody-yiln-xyl-xyl",
+      "runes": [
+        "Ydr",
+        "Yth",
+        "Ody",
+        "Yiln",
+        "Xyl",
+        "Xyl"
+      ],
+      "effects": [
+        "+65% Movement Speed",
+        "+225% Damage to Burning"
+      ],
+      "tags": [
+        "Utility",
+        "Ofensive"
+      ],
+      "runeCount": 6,
+      "notes": "~125% RD",
+      "rdHint": "~125%",
+      "rdValue": 125,
+      "build": ""
+    },
+    {
+      "id": "ydr-yth-ody",
+      "runes": [
+        "Ydr",
+        "Yth",
+        "Ody"
+      ],
+      "effects": [
+        "+75% Barrier Recharge Rate"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "~25% RD",
+      "rdHint": "~25%",
+      "rdValue": 25,
+      "build": ""
+    },
+    {
+      "id": "yiln-ath-rath-kar-xol",
+      "runes": [
+        "Yiln",
+        "Ath",
+        "Rath",
+        "Kar",
+        "Xol"
+      ],
+      "effects": [
+        "+22.5% Movement Speed per Life Lost",
+        "+95% Resistance Piercing Chance"
+      ],
+      "tags": [
+        "Ofensive",
+        "Utility"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-azh-xul",
+      "runes": [
+        "Yiln",
+        "Azh",
+        "Xul"
+      ],
+      "effects": [
+        "+225% Artifact Damage",
+        "+30% Chance to Burn with Solar Damage"
+      ],
+      "tags": [
+        "Burn",
+        "Artifact",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-bik-dik",
+      "runes": [
+        "Yiln",
+        "Bik",
+        "Dik"
+      ],
+      "effects": [
+        "+9 Max Companions"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-bik-rath",
+      "runes": [
+        "Yiln",
+        "Bik",
+        "Rath"
+      ],
+      "effects": [
+        "+25% Artifact Damage",
+        "+180% Power Ability Damage",
+        "+45% Lunar Resistance"
+      ],
+      "tags": [
+        "Power Ability",
+        "Artifact",
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-bik-xal",
+      "runes": [
+        "Yiln",
+        "Bik",
+        "Xal"
+      ],
+      "effects": [
+        "+100% Projectile Damage"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-dik-bik",
+      "runes": [
+        "Yiln",
+        "Dik",
+        "Bik"
+      ],
+      "effects": [
+        "+300% Primary Attack Ability",
+        "+5% Chance for Soul Coins"
+      ],
+      "tags": [
+        "Primary Ability",
+        "Utility",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-dik-odu",
+      "runes": [
+        "Yiln",
+        "Dik",
+        "Odu"
+      ],
+      "effects": [
+        "+450% Increased Reflected Damage to Elites"
+      ],
+      "tags": [
+        "Reflect"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-dik-ody",
+      "runes": [
+        "Yiln",
+        "Dik",
+        "Ody"
+      ],
+      "effects": [
+        "+17.5% Damage increased per Life Lost"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "yiln-djar-ody",
+      "runes": [
+        "Yiln",
+        "Djar",
+        "Ody"
+      ],
+      "effects": [
+        "+100% Lunar Damage",
+        "+5% Solar Resistance"
+      ],
+      "tags": [
+        "Lunar Damage",
+        "Ofensive",
+        "Defensive",
+        "Good"
+      ],
+      "runeCount": 3,
+      "notes": "Good on 1 slot Eldritch Weapons",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-djar-unh-pok-bik",
+      "runes": [
+        "Yiln",
+        "Djar",
+        "Unh",
+        "Pok",
+        "Bik"
+      ],
+      "effects": [
+        "+56.25% Chance to Curse with Umbral damage"
+      ],
+      "tags": [
+        "Curse"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-djar-xyth-ird-pok",
+      "runes": [
+        "Yiln",
+        "Djar",
+        "Xyth",
+        "Ird",
+        "Pok"
+      ],
+      "effects": [
+        "+62.5% Primal Damage",
+        "+50% Solar Damage"
+      ],
+      "tags": [
+        "Primal Damage",
+        "Solar Damage",
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-djur-xol",
+      "runes": [
+        "Yiln",
+        "Djur",
+        "Xol"
+      ],
+      "effects": [
+        "+62.5% Lunar Damage",
+        "+1 Movement Charge"
+      ],
+      "tags": [
+        "Lunar Damage",
+        "Ofensive",
+        "Movement Charge"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "28%",
+      "rdValue": 28,
+      "build": ""
+    },
+    {
+      "id": "yiln-ird-bik-rath-ody",
+      "runes": [
+        "Yiln",
+        "Ird",
+        "Bik",
+        "Rath",
+        "Ody"
+      ],
+      "effects": [
+        "+50% Damage to Healthy"
+      ],
+      "tags": [
+        "Ofensive",
+        "Unverified"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-ird-lith",
+      "runes": [
+        "Yiln",
+        "Ird",
+        "Lith"
+      ],
+      "effects": [
+        "+2.5% Movement Speed per Life Lost"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-ird-xul-djur-unh",
+      "runes": [
+        "Yiln",
+        "Ird",
+        "Xul",
+        "Djur",
+        "Unh"
+      ],
+      "effects": [
+        "+10% Projectile Amount",
+        "+3 Movement Charges",
+        "+300% Increased Reflected Damage",
+        "+475% Ally Damage*"
+      ],
+      "tags": [
+        "Allies",
+        "Ofensive",
+        "Reflect",
+        "Movement Charge",
+        "Utility"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-ird-xul-ujr-unh",
+      "runes": [
+        "Yiln",
+        "Ird",
+        "Xul",
+        "Ujr",
+        "Unh"
+      ],
+      "effects": [
+        "+110% Increased Proc Chance"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-kar-djar",
+      "runes": [
+        "Yiln",
+        "Kar",
+        "Djar"
+      ],
+      "effects": [
+        "+5% Movement Speed",
+        "+22.5% Double Shot Chance"
+      ],
+      "tags": [
+        "Utility",
+        "Good"
+      ],
+      "runeCount": 3,
+      "notes": "Good on 1 slot Eldritch Weapons",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-kar-ydr",
+      "runes": [
+        "Yiln",
+        "Kar",
+        "Ydr"
+      ],
+      "effects": [
+        "+100% Primal Damge",
+        "+40% All Damage"
+      ],
+      "tags": [
+        "Primal Damage",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-lith-ody-yth-rath",
+      "runes": [
+        "Yiln",
+        "Lith",
+        "Ody",
+        "Yth",
+        "Rath"
+      ],
+      "effects": [
+        "+10% Chance to spawn XP Soul"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-lith-uth",
+      "runes": [
+        "Yiln",
+        "Lith",
+        "Uth"
+      ],
+      "effects": [
+        "+22.5% Chance to Stun with Primal Damage"
+      ],
+      "tags": [
+        "Stun"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-mak-azh-rath-xyth",
+      "runes": [
+        "Yiln",
+        "Mak",
+        "Azh",
+        "Rath",
+        "Xyth"
+      ],
+      "effects": [
+        "+14 Max Lesser Allies",
+        "+160% Ability Damage"
+      ],
+      "tags": [
+        "Allies",
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-oda-ath",
+      "runes": [
+        "Yiln",
+        "Oda",
+        "Ath"
+      ],
+      "effects": [
+        "+12.5% Damage to Curse"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "yiln-oda-ody-unh-kar",
+      "runes": [
+        "Yiln",
+        "Oda",
+        "Ody",
+        "Unh",
+        "Kar"
+      ],
+      "effects": [
+        "+15% Damage per Life Lost",
+        "+125% Projectile Damage",
+        "+1000% Critical Hit Damage",
+        "+500% Primary Attack Ability Damage"
+      ],
+      "tags": [
+        "Primary Ability",
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-odo-ujr",
+      "runes": [
+        "Yiln",
+        "Odo",
+        "Ujr"
+      ],
+      "effects": [
+        "+200% Movement Ability Damage"
+      ],
+      "tags": [
+        "Movement Ability",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-odu-dik",
+      "runes": [
+        "Yiln",
+        "Odu",
+        "Dik"
+      ],
+      "effects": [
+        "+5 Max Lesser Allies",
+        "+22.5% Damage Increased per Life lost"
+      ],
+      "tags": [
+        "Allies",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-odu-ird-unh-xul",
+      "runes": [
+        "Yiln",
+        "Odu",
+        "Ird",
+        "Unh",
+        "Xul"
+      ],
+      "effects": [
+        "+212.5% Lunar Damage"
+      ],
+      "tags": [
+        "Lunar Damage",
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-ody-dik-bik-xal-kar",
+      "runes": [
+        "Yiln",
+        "Ody",
+        "Dik",
+        "Bik",
+        "Xal",
+        "Kar"
+      ],
+      "effects": [
+        "+37.5% Damage Taken Staggered",
+        "+19.5 Soul Attract Range"
+      ],
+      "tags": [
+        "Defensive",
+        "Utility"
+      ],
+      "runeCount": 6,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-ody-unh-rath-xyth",
+      "runes": [
+        "Yiln",
+        "Ody",
+        "Unh",
+        "Rath",
+        "Xyth"
+      ],
+      "effects": [
+        "+18 Max Greater Ally",
+        "+75% Damage to Stunned",
+        "+17.5% Block Chance"
+      ],
+      "tags": [
+        "Allies",
+        "Ofensive",
+        "Defensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-ody-xol",
+      "runes": [
+        "Yiln",
+        "Ody",
+        "Xol"
+      ],
+      "effects": [
+        "+200% Primary Attack Ability Damage"
+      ],
+      "tags": [
+        "Primary Ability",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-onh-xyth",
+      "runes": [
+        "Yiln",
+        "Onh",
+        "Xyth"
+      ],
+      "effects": [
+        "+8 Max Greater Allies"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-pok-djar-ird-xyth",
+      "runes": [
+        "Yiln",
+        "Pok",
+        "Djar",
+        "Ird",
+        "Xyth"
+      ],
+      "effects": [
+        "+15% Chance to Burn with Solar damage",
+        "+198º Attack Arc"
+      ],
+      "tags": [
+        "Burn",
+        "Utility"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-kar-zir-xol-xol",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Kar",
+        "Zir",
+        "Xol",
+        "Xol"
+      ],
+      "effects": [
+        "+100% Chained Attack Steps"
+      ],
+      "tags": [
+        "Utility",
+        "Waste"
+      ],
+      "runeCount": 6,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-unh",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Unh"
+      ],
+      "effects": [
+        "+250% Damage Reflected on Block",
+        "+50% Chained Attack Steps"
+      ],
+      "tags": [
+        "Reflect",
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-zir-kar-xol",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Zir",
+        "Kar",
+        "Xol"
+      ],
+      "effects": [
+        "+237.5% Damage to Frozen"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-zir",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Zir"
+      ],
+      "effects": [
+        "+5 Projectile Pierce"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-ujr-djur",
+      "runes": [
+        "Yiln",
+        "Ujr",
+        "Djur"
+      ],
+      "effects": [
+        "+75% Damage Taken Staggered"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-ujr-xul-ird-unh",
+      "runes": [
+        "Yiln",
+        "Ujr",
+        "Xul",
+        "Ird",
+        "Unh"
+      ],
+      "effects": [
+        "+175% Ally Damage"
+      ],
+      "tags": [
+        "Allies",
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-unh-rath-zir-xol",
+      "runes": [
+        "Yiln",
+        "Unh",
+        "Rath",
+        "Zir",
+        "Xol"
+      ],
+      "effects": [
+        "+10% Ability Damage",
+        "+275% Bleed Rate Reduced"
+      ],
+      "tags": [
+        "Ofensive",
+        "Defensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-unh-rath",
+      "runes": [
+        "Yiln",
+        "Unh",
+        "Rath"
+      ],
+      "effects": [
+        "+100% Damage to Healthy"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-unh-yth-odu-rath",
+      "runes": [
+        "Yiln",
+        "Unh",
+        "Yth",
+        "Odu",
+        "Rath"
+      ],
+      "effects": [
+        "+300% Critical Hit Damage"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-unh-yth",
+      "runes": [
+        "Yiln",
+        "Unh",
+        "Yth"
+      ],
+      "effects": [
+        "+8.75% Health on Kill"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-xol-odu",
+      "runes": [
+        "Yiln",
+        "Xol",
+        "Odu"
+      ],
+      "effects": [
+        "+200% Increased Reflected damage to Elites"
+      ],
+      "tags": [
+        "Reflect"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-xol-rath-zir-kar",
+      "runes": [
+        "Yiln",
+        "Xol",
+        "Rath",
+        "Zir",
+        "Kar"
+      ],
+      "effects": [
+        "+22.5% Chance to spawn Healing Soul"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-xul-uth",
+      "runes": [
+        "Yiln",
+        "Xul",
+        "Uth"
+      ],
+      "effects": [
+        "+125% Damage to Burning"
+      ],
+      "tags": [
+        "Burn",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-xyth-ird-pok-djar",
+      "runes": [
+        "Yiln",
+        "Xyth",
+        "Ird",
+        "Pok",
+        "Djar"
+      ],
+      "effects": [
+        "+175% Umbral Damage"
+      ],
+      "tags": [
+        "Umbral Damage",
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-yth-kyn",
+      "runes": [
+        "Yiln",
+        "Yth",
+        "Kyn"
+      ],
+      "effects": [
+        "+7 Max Lesser Allies"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-yth-unh-xal-odu-xal",
+      "runes": [
+        "Yiln",
+        "Yth",
+        "Unh",
+        "Xal",
+        "Odu",
+        "Xal"
+      ],
+      "effects": [
+        "+100% Ability Damage",
+        "+750% Primary Ability Damage"
+      ],
+      "tags": [
+        "Ofensive",
+        "Primary Ability"
+      ],
+      "runeCount": 6,
+      "notes": "Runes don't sinergize, effect good tho",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-zhu-ird-uth-xul",
+      "runes": [
+        "Yiln",
+        "Zhu",
+        "Ird",
+        "Uth",
+        "Xul"
+      ],
+      "effects": [
+        "+95% Primal Resistance",
+        "+11 Max Companions",
+        "+20 Dodge Charges"
+      ],
+      "tags": [
+        "Defensive",
+        "Allies",
+        "Dodge Charge"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-zir-bik",
+      "runes": [
+        "Yiln",
+        "Zir",
+        "Bik"
+      ],
+      "effects": [
+        "+40% Solar Resistance"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-zir-rath-bik-unh-ody",
+      "runes": [
+        "Yiln",
+        "Zir",
+        "Rath",
+        "Bik",
+        "Unh",
+        "Ody"
+      ],
+      "effects": [
+        "+30% Projectile Split Chance"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-zir-rath-kar-onh-xol",
+      "runes": [
+        "Yiln",
+        "Zir",
+        "Rath",
+        "Kar",
+        "Onh",
+        "Xol"
+      ],
+      "effects": [
+        "+17.5% Block Chance",
+        "+100% Projectile Amount"
+      ],
+      "tags": [
+        "Defensive",
+        "Ofensive"
+      ],
+      "runeCount": 6,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-zir-xol",
+      "runes": [
+        "Yiln",
+        "Zir",
+        "Xol"
+      ],
+      "effects": [
+        "+5 Projectile Pierce",
+        "+25% Chance to spawn Healing Soul"
+      ],
+      "tags": [
+        "Ofensive",
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-zir-xyth",
+      "runes": [
+        "Yiln",
+        "Zir",
+        "Xyth"
+      ],
+      "effects": [
+        "+40% Attack Force",
+        "+125% Damage to Frozen"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    },
+    {
+      "id": "yth-bik-dyr",
+      "runes": [
+        "Yth",
+        "Bik",
+        "Dyr"
+      ],
+      "effects": [
+        "+5% Energy Cost Reduction"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yth-lith-kar",
+      "runes": [
+        "Yth",
+        "Lith",
+        "Kar"
+      ],
+      "effects": [
+        "+150% Passive Ability Damage",
+        "+22.5% Chance for Corrupted Soul Fragments"
+      ],
+      "tags": [
+        "Passive Ability",
+        "Ofensive",
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yth-oda-lith",
+      "runes": [
+        "Yth",
+        "Oda",
+        "Lith"
+      ],
+      "effects": [
+        "+72º Attack Arc"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": ">50%",
+      "rdValue": 50,
+      "build": ""
+    },
+    {
+      "id": "yth-oda-xal",
+      "runes": [
+        "Yth",
+        "Oda",
+        "Xal"
+      ],
+      "effects": [
+        "+80% Increased Proc Chance",
+        "+87.5% Damage to Frozen"
+      ],
+      "tags": [
+        "Utility",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": ">50%",
+      "rdValue": 50,
+      "build": ""
+    },
+    {
+      "id": "yth-ody-bik",
+      "runes": [
+        "Yth",
+        "Ody",
+        "Bik"
+      ],
+      "effects": [
+        "+7 Movement Charges"
+      ],
+      "tags": [
+        "Movement Charge"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yth-ody-kar-zir-yrk",
+      "runes": [
+        "Yth",
+        "Ody",
+        "Kar",
+        "Zir",
+        "Yrk"
+      ],
+      "effects": [
+        "+90% Resistance Piercing Chance"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yth-onh-zhy",
+      "runes": [
+        "Yth",
+        "Onh",
+        "Zhy"
+      ],
+      "effects": [
+        "+150% Ally Damage"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yth-pok-unh",
+      "runes": [
+        "Yth",
+        "Pok",
+        "Unh"
+      ],
+      "effects": [
+        "+37.5% Chance to Curse with Umbral Damage",
+        "+2.5 Projectile Pierce"
+      ],
+      "tags": [
+        "Curse",
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "10%",
+      "rdValue": 10,
+      "build": ""
+    },
+    {
+      "id": "yth-unh-onh",
+      "runes": [
+        "Yth",
+        "Unh",
+        "Onh"
+      ],
+      "effects": [
+        "+4 Movement Charges"
+      ],
+      "tags": [
+        "Utility",
+        "Movement Charge"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yth-xal-oda",
+      "runes": [
+        "Yth",
+        "Xal",
+        "Oda"
+      ],
+      "effects": [
+        "+3 Soul Attract Range"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yth-xyth-ath",
+      "runes": [
+        "Yth",
+        "Xyth",
+        "Ath"
+      ],
+      "effects": [
+        "+75% Increased Reflected Damage"
+      ],
+      "tags": [
+        "Reflect"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": ">50%",
+      "rdValue": 50,
+      "build": ""
+    },
+    {
+      "id": "yth-ydr-xal",
+      "runes": [
+        "Yth",
+        "Ydr",
+        "Xal"
+      ],
+      "effects": [
+        "+45% Projectile Duration"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "zha-ath-oda",
+      "runes": [
+        "Zha",
+        "Ath",
+        "Oda"
+      ],
+      "effects": [
+        "+22.5% Chance to Stun with Primal Damage"
+      ],
+      "tags": [
+        "Stun"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zha-ath-yiln-pok-xal",
+      "runes": [
+        "Zha",
+        "Ath",
+        "Yiln",
+        "Pok",
+        "Xal"
+      ],
+      "effects": [
+        "+237.5% Damage to Burning",
+        "+80% All Damage"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zho-djar-xyth",
+      "runes": [
+        "Zho",
+        "Djar",
+        "Xyth"
+      ],
+      "effects": [
+        "+22.5% Damage Taken Reduced per Life Lost"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "May require +125% Runeword Discovery",
+      "rdHint": "+125%",
+      "rdValue": 125,
+      "build": ""
+    },
+    {
+      "id": "zho-ody-yth",
+      "runes": [
+        "Zho",
+        "Ody",
+        "Yth"
+      ],
+      "effects": [
+        "+100% Barrier Amount"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "May require +125% Runeword Discovery",
+      "rdHint": "+125%",
+      "rdValue": 125,
+      "build": ""
+    },
+    {
+      "id": "zho-oth-kyn",
+      "runes": [
+        "Zho",
+        "Oth",
+        "Kyn"
+      ],
+      "effects": [
+        "+22.5% Projectile Split Chance"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zho-oth-yiln",
+      "runes": [
+        "Zho",
+        "Oth",
+        "Yiln"
+      ],
+      "effects": [
+        "+112.5% Damage Taken Staggered"
+      ],
+      "tags": [
+        "Defensive",
+        "Waste"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zho-xyth-djar",
+      "runes": [
+        "Zho",
+        "Xyth",
+        "Djar"
+      ],
+      "effects": [
+        "+62.5% Damage to Frozen"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "<25% Runeword Discovery",
+      "rdHint": "<25%",
+      "rdValue": 25,
+      "build": ""
+    },
+    {
+      "id": "zhu-ath-dik",
+      "runes": [
+        "Zhu",
+        "Ath",
+        "Dik"
+      ],
+      "effects": [
+        "+100% Passive Ability Damage"
+      ],
+      "tags": [
+        "Passive Ability",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "May require +125% Runeword Discovery",
+      "rdHint": "+125%",
+      "rdValue": 125,
+      "build": ""
+    },
+    {
+      "id": "zhu-bik-dik",
+      "runes": [
+        "Zhu",
+        "Bik",
+        "Dik"
+      ],
+      "effects": [
+        "+37.5% Increased Reflected Damage"
+      ],
+      "tags": [
+        "Reflect"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zhu-ird-yiln",
+      "runes": [
+        "Zhu",
+        "Ird",
+        "Yiln"
+      ],
+      "effects": [
+        "+200% Artifact Damage"
+      ],
+      "tags": [
+        "Artifact",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zhu-kyn-xyth",
+      "runes": [
+        "Zhu",
+        "Kyn",
+        "Xyth"
+      ],
+      "effects": [
+        "+50% Bonus Health"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "May require +125% Runeword Discovery",
+      "rdHint": "+125%",
+      "rdValue": 125,
+      "build": ""
+    },
+    {
+      "id": "zhu-uth-djur",
+      "runes": [
+        "Zhu",
+        "Uth",
+        "Djur"
+      ],
+      "effects": [
+        "+3 Max Companions"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zhu-uth-odu",
+      "runes": [
+        "Zhu",
+        "Uth",
+        "Odu"
+      ],
+      "effects": [
+        "+17.5% Chacne to spawn Healing Soul"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zhu-yiln-ird-djar-xyth",
+      "runes": [
+        "Zhu",
+        "Yiln",
+        "Ird",
+        "Djar",
+        "Xyth"
+      ],
+      "effects": [
+        "+70% All Damage"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zhy-rath-xol",
+      "runes": [
+        "Zhy",
+        "Rath",
+        "Xol"
+      ],
+      "effects": [
+        "+75% Damage to Cursed"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": "33%",
+      "rdValue": 33,
+      "build": ""
+    },
+    {
+      "id": "zir-mak-xal",
+      "runes": [
+        "Zir",
+        "Mak",
+        "Xal"
+      ],
+      "effects": [
+        "+8 Max Greater Allies"
+      ],
+      "tags": [
+        "Allies"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zir-mak-yiln-azh-xyth",
+      "runes": [
+        "Zir",
+        "Mak",
+        "Yiln",
+        "Azh",
+        "Xyth"
+      ],
+      "effects": [
+        "+20% All Damage",
+        "+360% Power Ability Damage",
+        "+45% Chance for Soul Coins"
+      ],
+      "tags": [
+        "Ofensive",
+        "Power Ability",
+        "Utility"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": "25%",
+      "rdValue": 25,
+      "build": ""
+    },
+    {
+      "id": "zir-mak-yiln",
+      "runes": [
+        "Zir",
+        "Mak",
+        "Yiln"
+      ],
+      "effects": [
+        "+300% Primary Attack Ability Damage"
+      ],
+      "tags": [
+        "Primary Ability",
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "Uses Yiln tho.\n<125% RD",
+      "rdHint": "<125%",
+      "rdValue": 125,
+      "build": ""
+    },
+    {
+      "id": "zir-odo-xyth",
+      "runes": [
+        "Zir",
+        "Odo",
+        "Xyth"
+      ],
+      "effects": [
+        "+200% Damage to Elites"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zir-odu-ath",
+      "runes": [
+        "Zir",
+        "Odu",
+        "Ath"
+      ],
+      "effects": [
+        "+87.5% Damage Taken Staggered",
+        "+3 Movement Charges"
+      ],
+      "tags": [
+        "Defensive",
+        "Movement Charge",
+        "Good"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zir-pok-dik",
+      "runes": [
+        "Zir",
+        "Pok",
+        "Dik"
+      ],
+      "effects": [
+        "+30% Projectile Amount"
+      ],
+      "tags": [
+        "Ofensive"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zir-pok-yiln-djar-djur",
+      "runes": [
+        "Zir",
+        "Pok",
+        "Yiln",
+        "Djar",
+        "Djur"
+      ],
+      "effects": [
+        "+33.75% Curse with Umbral Damage"
+      ],
+      "tags": [
+        "Curse"
+      ],
+      "runeCount": 5,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zir-xol-xol",
+      "runes": [
+        "Zir",
+        "Xol",
+        "Xol"
+      ],
+      "effects": [
+        "+30% Movement Charge Recharge Rate"
+      ],
+      "tags": [
+        "Movement Ability"
+      ],
+      "runeCount": 3,
+      "notes": "",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zir-yiln-xyth-onh-rath-yth",
+      "runes": [
+        "Zir",
+        "Yiln",
+        "Xyth",
+        "Onh",
+        "Rath",
+        "Yth"
+      ],
+      "effects": [
+        "+90% Lunar Resistance",
+        "+27.5% Damage Taken Reduced per Life Lost",
+        "+32.5% Energy Cost Reduction"
+      ],
+      "tags": [
+        "Defensive",
+        "Utility"
+      ],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "zir-yiln-xyth-unh-gul-kar",
+      "runes": [
+        "Zir",
+        "Yiln",
+        "Xyth",
+        "Unh",
+        "Gul",
+        "Kar"
+      ],
+      "effects": [
+        "+190% Chained Attack Steps"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "zir-yiln-xyth-xyth-oda-xol",
+      "runes": [
+        "Zir",
+        "Yiln",
+        "Xyth",
+        "Xyth",
+        "Oda",
+        "Xol"
+      ],
+      "effects": [
+        "+12 Energy on Block"
+      ],
+      "tags": [
+        "Waste"
+      ],
+      "runeCount": 6,
+      "notes": "If only Nhalzur could block",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "zir-yiln-xyth-yth-odu-ody",
+      "runes": [
+        "Zir",
+        "Yiln",
+        "Xyth",
+        "Yth",
+        "Odu",
+        "Ody"
+      ],
+      "effects": [
+        "+75% Chance for Rare Items",
+        "+50% Movement Charge Recharge Rate",
+        "+17.5% Movement Speed per Life Lost"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "zir-yiln-xyth-yth-odu",
+      "runes": [
+        "Zir",
+        "Yiln",
+        "Xyth",
+        "Yth",
+        "Odu"
+      ],
+      "effects": [
+        "+225% Barrier Recharge Rate"
+      ],
+      "tags": [
+        "Defensive"
+      ],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "zir-yiln-xyth",
+      "runes": [
+        "Zir",
+        "Yiln",
+        "Xyth"
+      ],
+      "effects": [
+        "+22.5% Attack Reach"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 3,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "zir-yiln-yrk-ydr-odu",
+      "runes": [
+        "Zir",
+        "Yiln",
+        "Yrk",
+        "Ydr",
+        "Odu"
+      ],
+      "effects": [
+        "+7.5% Double Shot Chance"
+      ],
+      "tags": [
+        "Utility"
+      ],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-zir-bik-unh",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Zir",
+        "Bik",
+        "Unh"
+      ],
+      "effects": [
+        "+60% Solar Resistance"
+      ],
+      "tags": [],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-zir-bik-unh-xyth",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Zir",
+        "Bik",
+        "Unh",
+        "Xyth"
+      ],
+      "effects": [
+        "+100% Bonus Health",
+        "+16 Max Greater Allies"
+      ],
+      "tags": [],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-zir-xyth-bik",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Zir",
+        "Xyth",
+        "Bik"
+      ],
+      "effects": [
+        "+20% Chance to spawn XP Soul",
+        "+375% Projectile Damage"
+      ],
+      "tags": [],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-zir-unh-bik-xyth",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Zir",
+        "Unh",
+        "Bik",
+        "Xyth"
+      ],
+      "effects": [
+        "+17 Energy on Block",
+        "+412.5% Increased Reflected Damage"
+      ],
+      "tags": [],
+      "runeCount": 6,
+      "notes": "If only Nhalzur could block",
+      "rdHint": null,
+      "rdValue": null,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-zir-unh-xyth",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Zir",
+        "Unh",
+        "Xyth"
+      ],
+      "effects": [
+        "+7.5% Critical Hit Chance"
+      ],
+      "tags": [],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-bik-zir-xyth",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Bik",
+        "Zir",
+        "Xyth"
+      ],
+      "effects": [
+        "+35% Chance for Corrupted Soul Fragments"
+      ],
+      "tags": [],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-bik-zir-xyth-unh",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Bik",
+        "Zir",
+        "Xyth",
+        "Unh"
+      ],
+      "effects": [
+        "+275% Passive Ability Damage"
+      ],
+      "tags": [],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-bik-xyth-zir",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Bik",
+        "Xyth",
+        "Zir"
+      ],
+      "effects": [
+        "+110% Movement Charge Recharge Rate"
+      ],
+      "tags": [],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-bik-xyth-zir-unh",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Bik",
+        "Xyth",
+        "Zir",
+        "Unh"
+      ],
+      "effects": [
+        "+160% Target Amount"
+      ],
+      "tags": [],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-bik-unh-zir-xyth",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Bik",
+        "Unh",
+        "Zir",
+        "Xyth"
+      ],
+      "effects": [
+        "+70% Resistance Piercing Chance",
+        "+50% Chance to spawn XP Soul",
+        "+90% Movement Speed",
+        "+500% Barrier Recharge Rate"
+      ],
+      "tags": [
+        "Good"
+      ],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-xyth-zir-bik",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Xyth",
+        "Zir",
+        "Bik"
+      ],
+      "effects": [
+        "+275% Ally Damage",
+        "+27.5% Health Regeneration"
+      ],
+      "tags": [],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-xyth-zir-bik-unh",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Xyth",
+        "Zir",
+        "Bik",
+        "Unh"
+      ],
+      "effects": [
+        "+32.5% Chance for Soul Coins",
+        "+15% Block Chance",
+        "+45% Chance to Burn with Solar Damage"
+      ],
+      "tags": [],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-xyth-zir-unh",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Xyth",
+        "Zir",
+        "Unh"
+      ],
+      "effects": [
+        "+210% Damage to Injuried",
+        "+3 Max Greater Allies",
+        "+100% Passive Ability Damage"
+      ],
+      "tags": [],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-xyth-zir-unh-bik",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Xyth",
+        "Zir",
+        "Unh",
+        "Bik"
+      ],
+      "effects": [
+        "+17.5% Health Regeneration"
+      ],
+      "tags": [],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-xyth-bik-unh-zir",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Xyth",
+        "Bik",
+        "Unh",
+        "Zir"
+      ],
+      "effects": [
+        "+33.75% Freeze with Lunar Damage",
+        "+41.25% Curse with Umbral Damage",
+        "+550% Increased Reflected Damage to Elites"
+      ],
+      "tags": [],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-xyth-unh-zir",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Xyth",
+        "Unh",
+        "Zir"
+      ],
+      "effects": [
+        "+15 Movement Charges"
+      ],
+      "tags": [],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-xyth-unh-zir-bik",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Xyth",
+        "Unh",
+        "Zir",
+        "Bik"
+      ],
+      "effects": [
+        "+20% Attack Speed per Life Lost",
+        "+342º Attack Arc"
+      ],
+      "tags": [],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-xyth-unh-bik-zir",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Xyth",
+        "Unh",
+        "Bik",
+        "Zir"
+      ],
+      "effects": [
+        "+150% Ally Damage",
+        "+2 Max Companions"
+      ],
+      "tags": [],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-unh-zir-xyth",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Unh",
+        "Zir",
+        "Xyth"
+      ],
+      "effects": [
+        "+212.5% Damage to Curse",
+        "+47.5% Critical Hit Chance"
+      ],
+      "tags": [],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-unh-bik-zir",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Unh",
+        "Bik",
+        "Zir"
+      ],
+      "effects": [
+        "+600% Ally Health"
+      ],
+      "tags": [],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-unh-bik-xyth",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Unh",
+        "Bik",
+        "Xyth"
+      ],
+      "effects": [
+        "+50% Projectile Duration"
+      ],
+      "tags": [],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-unh-bik-xyth-zir",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Unh",
+        "Bik",
+        "Xyth",
+        "Zir"
+      ],
+      "effects": [
+        "+100% Chained Attack Steps",
+        "+7.5% Chance to Curse with Umbral Damage",
+        "+52.5% Chance to Burn With Solar Damage",
+        "+20 Max Lesser Allies"
+      ],
+      "tags": [
+        "Good"
+      ],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-unh-xyth-zir-bik",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Unh",
+        "Xyth",
+        "Zir",
+        "Bik"
+      ],
+      "effects": [
+        "+20% Power Ability Damage"
+      ],
+      "tags": [],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-unh-xyth-bik",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Unh",
+        "Xyth",
+        "Bik"
+      ],
+      "effects": [
+        "+2.5 Projectile Pierce"
+      ],
+      "tags": [],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-rath-unh-xyth-bik-zir",
+      "runes": [
+        "Yiln",
+        "Rath",
+        "Unh",
+        "Xyth",
+        "Bik",
+        "Zir"
+      ],
+      "effects": [
+        "+170% Movement Charge Recharge Rate",
+        "+27.5% Critical Hit Chance",
+        "+15% Health on Kill"
+      ],
+      "tags": [],
+      "runeCount": 6,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-zir-rath-bik-xyth",
+      "runes": [
+        "Yiln",
+        "Zir",
+        "Rath",
+        "Bik",
+        "Xyth"
+      ],
+      "effects": [
+        "+250% Umbral Damage",
+        "+400% Primary Attack Ability Damage",
+        "+47.5% Health Regeneration"
+      ],
+      "tags": [
+        "Powerful"
+      ],
+      "runeCount": 5,
+      "notes": "~100% RD",
+      "rdHint": "~100%",
+      "rdValue": 100,
+      "build": ""
+    },
+    {
+      "id": "yiln-zir-bik-rath-unh-xyth",
+      "runes": [
+        "Yiln",
+        "Zir",
+        "Bik",
+        "Rath",
+        "Unh",
+        "Xyth"
+      ],
+      "effects": [
+        "+15% Energy Cost Reduction",
+        "+1000% Primary Ability Damage"
+      ],
+      "tags": [],
+      "runeCount": 6,
+      "notes": "",
+      "rdHint": "0%",
+      "rdValue": 0,
+      "build": ""
+    }
+  ]
+}

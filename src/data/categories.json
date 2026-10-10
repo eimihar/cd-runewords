@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "group": "Damage Types",
+      "tags": [
+        "Primal Damage",
+        "Solar Damage",
+        "Lunar Damage",
+        "Umbral Damage"
+      ]
+    },
+    {
+      "group": "Conditions",
+      "tags": [
+        "Stun",
+        "Burn",
+        "Freeze",
+        "Curse"
+      ]
+    },
+    {
+      "group": "Abilities",
+      "tags": [
+        "Primary Ability",
+        "Power Ability",
+        "Passive Ability",
+        "Movement Ability"
+      ]
+    },
+    {
+      "group": "Role",
+      "tags": [
+        "Ofensive",
+        "Defensive",
+        "Utility"
+      ]
+    },
+    {
+      "group": "Misc",
+      "tags": [
+        "Artifact",
+        "Movement Charge",
+        "Dodge Charge",
+        "Allies",
+        "Reflect",
+        "Waste",
+        "Unverified",
+        "Powerful",
+        "Good"
+      ]
+    },
+    {
+      "group": "Number of Runes",
+      "tags": [
+        "3 Runes",
+        "5 Runes",
+        "6 Runes"
+      ]
+    }
+  ]
+}
