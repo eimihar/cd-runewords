@@ -28,6 +28,12 @@ import { RouterLink, RouterView } from 'vue-router'
           >
             Runes
           </RouterLink>
+          <RouterLink
+            to="/abilities"
+            class="rounded-md px-3 py-1.5 text-zinc-400 transition hover:bg-zinc-800/60 hover:text-zinc-100 [&.router-link-exact-active]:bg-zinc-800 [&.router-link-exact-active]:font-semibold [&.router-link-exact-active]:text-amber-400"
+          >
+            Abilities
+          </RouterLink>
         </nav>
       </div>
     </header>
@@ -38,7 +44,15 @@ import { RouterLink, RouterView } from 'vue-router'
 
     <footer class="border-t border-zinc-900 py-4">
       <p class="mx-auto max-w-7xl px-4 text-xs text-zinc-700 lg:px-6">
-        Fan-made browser for Conquest Dark runewords. Data from docs/*.csv.
+        Fan-made browser for Conquest Dark. Data from docs/*.csv and the
+        <a
+          href="https://conquestdark.wiki.gg/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="text-zinc-600 underline decoration-zinc-700/50 underline-offset-2 transition hover:text-zinc-400"
+          >Conquest Dark Wiki</a
+        >
+        (CC BY-SA 4.0).
       </p>
     </footer>
   </div>

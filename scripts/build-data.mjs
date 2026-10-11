@@ -55,6 +55,21 @@ for (const [rune, detail] of Object.entries(runeDetails)) {
   }
 }
 
+// ---- abilities.json (produced by scripts/fetch-abilities.mjs) ----
+let abilitiesPayload = { source: '', license: '', fetchedAt: '', abilities: [] }
+try {
+  abilitiesPayload = JSON.parse(readFileSync(join(docs, 'abilities.json'), 'utf8'))
+  if (!Array.isArray(abilitiesPayload.abilities)) throw new Error('abilities[] missing')
+  for (const ab of abilitiesPayload.abilities) {
+    if (!ab.id || !ab.type || !ab.name) throw new Error(`ability missing id/type/name: ${JSON.stringify(ab).slice(0, 80)}`)
+  }
+} catch (e) {
+  if (e.code !== 'ENOENT') {
+    console.warn(`[data] docs/abilities.json not usable (${e.message}) — run npm run fetch:abilities`)
+  }
+  abilitiesPayload = { source: '', license: '', fetchedAt: '', abilities: [] }
+}
+
 // ---- runewords.csv ----
 const rows = readCsv('runewords.csv')
 const headerIdx = rows.findIndex((r) => cell(r, 0) === 'Rune 1')
@@ -154,6 +169,7 @@ const emit = (name, data) => {
 emit('runes.json', { families, details: runeDetails })
 emit('categories.json', { categories })
 emit('runewords.json', { runewords })
+emit('abilities.json', abilitiesPayload)
 
 const missingDetails = [...runeFamily.keys()].filter((r) => !runeDetails[r])
 console.log(
@@ -165,4 +181,5 @@ console.log(
   `[data] rune details: ${Object.keys(runeDetails).length}/${runeFamily.size}` +
     (missingDetails.length ? ` (no level data: ${missingDetails.join(', ')})` : ''),
 )
+console.log(`[data] abilities: ${abilitiesPayload.abilities.length}`)
 if (unknownTagCount > 0) console.warn(`[data] ${unknownTagCount} unknown tag occurrence(s)`)

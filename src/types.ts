@@ -27,3 +27,23 @@ export interface Runeword {
 
 export type RdBucket = 'all' | 'none' | 'zero' | 'low' | 'mid' | 'high'
 export type RuneMatchMode = 'all' | 'any'
+
+export type AbilityType = 'primary' | 'power' | 'passive' | 'movement'
+
+export interface Ability {
+  id: string
+  type: AbilityType
+  name: string
+  description: string[]
+  damage: string
+  targeting: string
+  attacksPerSecond: number | null
+  energyPerHit: number | null
+  energyCost: number | null
+  recharge: string
+  innateBonus: string[]
+  offhand: string
+  offhandBonus: string[]
+  requirements: string[]
+  damageTypes: string[]
+}

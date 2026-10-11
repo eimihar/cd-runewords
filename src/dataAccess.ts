@@ -1,7 +1,8 @@
+import abilitiesData from './data/abilities.json'
 import categoriesData from './data/categories.json'
 import runesData from './data/runes.json'
 import runewordsData from './data/runewords.json'
-import type { CategoryGroup, RuneDetail, RuneFamily, Runeword } from './types'
+import type { Ability, CategoryGroup, RuneDetail, RuneFamily, Runeword } from './types'
 
 export const families: RuneFamily[] = runesData.families
 export const runeDetails: Record<string, RuneDetail> = runesData.details
@@ -9,6 +10,12 @@ export const categories: CategoryGroup[] = categoriesData.categories
 export const runewords: Runeword[] = runewordsData.runewords
 export const totalRunewords = runewords.length
 export const totalRunes = families.reduce((n, f) => n + f.runes.length, 0)
+
+export const abilities = abilitiesData.abilities as Ability[]
+export const abilitiesSource: string = abilitiesData.source
+export const abilitiesLicense: string = abilitiesData.license
+export const abilitiesFetchedAt: string = abilitiesData.fetchedAt
+export const totalAbilities = abilities.length
 
 export function runeDetail(rune: string): RuneDetail | null {
   return runeDetails[rune] ?? null
@@ -42,3 +49,15 @@ for (const rw of runewords) {
 export function runeUsageCount(rune: string): number {
   return usageByRune.get(rune) ?? 0
 }
+
+function uniqueSorted(values: string[]): string[] {
+  return [...new Set(values.filter(Boolean))].sort()
+}
+
+export const abilityTargetings: string[] = uniqueSorted(abilities.map((a) => a.targeting))
+
+export const abilityDamageTypes: string[] = uniqueSorted(abilities.flatMap((a) => a.damageTypes))
+
+export const abilityRequirements: string[] = uniqueSorted(
+  abilities.flatMap((a) => a.requirements).filter((r) => !/^no\s+r?e?quirements$/i.test(r)),
+)

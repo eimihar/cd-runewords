@@ -25,10 +25,15 @@ Parsed from `docs/runes.csv`, `docs/runewords.csv`, `docs/category.csv`.
 ## 2. Data pipeline
 
 - `scripts/build-data.mjs` (Node + papaparse) parses the 3 CSVs plus `docs/rune-details.json`
-  and emits `src/data/runes.json` (families + details), `src/data/runewords.json`,
-  `src/data/categories.json`.
+  and `docs/abilities.json`, then emits `src/data/runes.json` (families + details),
+  `src/data/runewords.json`, `src/data/categories.json`, `src/data/abilities.json`.
 - Validation: every rune used in a runeword exists in `runes.csv`; unknown runes → build error.
   `rune-details.json` keys are checked against `runes.csv` (unknown key or bad shape → error).
+- **Abilities source**: `npm run fetch:abilities` (`scripts/fetch-abilities.mjs`) scrapes
+  `https://conquestdark.wiki.gg/wiki/Abilities?action=raw` (wikitext), parses the 4 wikitable
+  sections (Primary/Power/Passive/Movement), validates headers + min counts, and writes
+  `docs/abilities.json` (committed; manual refresh — builds never hit the network).
+  License: CC BY-SA 4.0 (Conquest Dark Wiki) — credited in the app footer.
 - Normalization (display only, raw CSVs untouched):
   - `Ofensive` → `Offensive` in tag labels.
   - Trim whitespace, split multi-line / `;`-separated effects.
@@ -54,19 +59,27 @@ Two routes (vue-router), dark theme throughout.
 - 5 family sections of rune chips. Click a rune → navigate to `/` pre-filtered
   to runewords containing it.
 
+### `/abilities` — Abilities (from the wiki)
+- 70 abilities (22 primary, 19 power, 16 passive, 13 movement) from `docs/abilities.json`.
+- Sidebar filters: search, ability type, targeting type, damage type, requirement/proficiency.
+- Cards: name + type badge, description/bonus lines, targeting + damage-type badges,
+  APS/energy/recharge badges, requirement chips. Attribution line (CC BY-SA 4.0).
+
 ## 4. Architecture
 
 ```
-scripts/build-data.mjs      # CSV → JSON pipeline
+scripts/build-data.mjs        # CSV/JSON → src/data/*.json pipeline
+scripts/fetch-abilities.mjs   # wiki wikitext → docs/abilities.json (manual refresh)
 src/
-  data/*.json               # generated, committed
-  types.ts                  # Rune, Runeword, Category, RuneFamily
-  dataAccess.ts             # typed loaders + lookups (rune → family, etc.)
-  composables/useFilters.ts # shared reactive filter state
+  data/*.json                 # generated, committed
+  types.ts                    # Rune, Runeword, Category, RuneFamily, Ability
+  dataAccess.ts               # typed loaders + lookups (rune → family, etc.)
+  composables/useFilters.ts  useAbilityFilters.ts
   components/
-    RuneChip.vue  TagBadge.vue  RunewordCard.vue
-    FilterPanel.vue  RunewordList.vue  RuneFamilyGrid.vue
-  views/  RunewordsView.vue  RunesView.vue
+    RuneChip.vue  TagBadge.vue  RunewordCard.vue  FilterPanel.vue
+    RunewordList.vue  RuneFamilyGrid.vue
+    AbilityCard.vue  AbilityFilterPanel.vue
+  views/  RunewordsView.vue  RunesView.vue  AbilitiesView.vue
   router/index.ts
   App.vue  main.ts
 ```

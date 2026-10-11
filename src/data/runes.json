@@ -147,8 +147,16 @@
       "effectPerLevel": "+50%+5% x lvl Chained Targets",
       "maxLevel": 10
     },
+    "Unh": {
+      "effectPerLevel": "+75% damage to elites",
+      "maxLevel": 10
+    },
     "Yiln": {
-      "effectPerLevel": "+1 Rune Slot to Random Other Ability",
+      "effectPerLevel": "+1 Additional Rune Slot",
+      "maxLevel": 0
+    },
+    "Gul": {
+      "effectPerLevel": "+3 Rerolls",
       "maxLevel": 0
     },
     "Xal": {

@@ -1,0 +1,1714 @@
+{
+  "source": "https://conquestdark.wiki.gg/wiki/Abilities",
+  "license": "CC BY-SA 4.0 — Conquest Dark Wiki (conquestdark.wiki.gg)",
+  "fetchedAt": "2026-10-11T14:22:41.966Z",
+  "abilities": [
+    {
+      "id": "slayer-s-blade",
+      "type": "primary",
+      "name": "Slayer's Blade",
+      "description": [],
+      "damage": "75%-125% Primal Damage",
+      "targeting": "Cleave",
+      "attacksPerSecond": 1,
+      "energyPerHit": 5,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+100% Damage to Elites"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Two-Handed Weapons",
+        "Swords"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "destroyer-s-axe",
+      "type": "primary",
+      "name": "Destroyer's Axe",
+      "description": [],
+      "damage": "90%-270% Primal Damage",
+      "targeting": "Cleave",
+      "attacksPerSecond": 0.67,
+      "energyPerHit": 6,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+100% Critical Hit Damage"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Two-Handed Weapons",
+        "Axes"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "thronebreaker",
+      "type": "primary",
+      "name": "Thronebreaker",
+      "description": [],
+      "damage": "75%-225% Primal Damage",
+      "targeting": "Cleave",
+      "attacksPerSecond": 0.67,
+      "energyPerHit": 7,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+15% Chance to Stun with Primal Damage",
+        "+75% Damage to Stunned"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Two-Handed Weapons",
+        "Maces"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "ravager-s-axe",
+      "type": "primary",
+      "name": "Ravager's Axe",
+      "description": [],
+      "damage": "50%-150% Primal Damage",
+      "targeting": "Melee",
+      "attacksPerSecond": 1.82,
+      "energyPerHit": 15,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+50% Critical Hit Chance"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Dual Wielding",
+        "Axes"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "soldier-s-sword",
+      "type": "primary",
+      "name": "Soldier's Sword",
+      "description": [],
+      "damage": "53%-88% Primal Damage",
+      "targeting": "Cleave",
+      "attacksPerSecond": 1.67,
+      "energyPerHit": 5,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+100% Resistance Piercing Chance"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Dual Wielding",
+        "Swords"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "scimitar",
+      "type": "primary",
+      "name": "Scimitar",
+      "description": [],
+      "damage": "75%-125% Primal Damage",
+      "targeting": "Cleave",
+      "attacksPerSecond": 2,
+      "energyPerHit": 2,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+30% Instant Attack Chance"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Dual Wielding",
+        "Swords"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "brutal-flail",
+      "type": "primary",
+      "name": "Brutal Flail",
+      "description": [],
+      "damage": "90%-150% Primal Damage",
+      "targeting": "Cleave",
+      "attacksPerSecond": 1,
+      "energyPerHit": 6,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+15% Chance to Stun with Primal Damage",
+        "+75% Damage to Injured"
+      ],
+      "offhand": "Battlefield Shield",
+      "offhandBonus": [
+        "+1 Block Ability",
+        "+25% Block Chance"
+      ],
+      "requirements": [
+        "Maces",
+        "Shields"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "throwing-axe",
+      "type": "primary",
+      "name": "Throwing Axe",
+      "description": [],
+      "damage": "50%-150% Primal Damage",
+      "targeting": "Projectile x1",
+      "attacksPerSecond": 1,
+      "energyPerHit": 12,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+7.5% Chance to Stun with Primal Damage",
+        "+1 Projectile Pierce"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Throwing Weapons",
+        "Axes"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "fiery-short-bow",
+      "type": "primary",
+      "name": "Fiery Short Bow",
+      "description": [],
+      "damage": "61%-100% Solar Damage",
+      "targeting": "Projectile x1",
+      "attacksPerSecond": 1.25,
+      "energyPerHit": 8,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+45% Chance to Burn with Solar Damage"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Short Bows"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "hunter-s-bow",
+      "type": "primary",
+      "name": "Hunter's Bow",
+      "description": [],
+      "damage": "90%-150% Primal Damage",
+      "targeting": "Projectile x1",
+      "attacksPerSecond": 0.67,
+      "energyPerHit": 14,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+20% Double Shot Chance"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Longbows"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "titan-bow",
+      "type": "primary",
+      "name": "Titan Bow",
+      "description": [],
+      "damage": "125%-375% Lunar Damage",
+      "targeting": "Projectile x1",
+      "attacksPerSecond": 0.5,
+      "energyPerHit": 20,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+150% Damage to Elites"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Longbows"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "thief-s-dagger",
+      "type": "primary",
+      "name": "Thief's Dagger",
+      "description": [],
+      "damage": "72%-89% Primal Damage",
+      "targeting": "Melee",
+      "attacksPerSecond": 2.22,
+      "energyPerHit": 10,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+7.5% Chance to Stun with Primal Damage",
+        "+30% Damage to Stunned"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Dual Wielding",
+        "Daggers"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "throwing-knife",
+      "type": "primary",
+      "name": "Throwing Knife",
+      "description": [],
+      "damage": "45%-75% Primal Damage",
+      "targeting": "Projectile x1",
+      "attacksPerSecond": 1.67,
+      "energyPerHit": 7,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+100% Resistance Piercing Chance",
+        "+1 Projectile Pierce"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Throwing Weapons",
+        "Daggers"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "oathbringer",
+      "type": "primary",
+      "name": "Oathbringer",
+      "description": [],
+      "damage": "75%-225% Solar Damage",
+      "targeting": "Melee",
+      "attacksPerSecond": 1.67,
+      "energyPerHit": 15,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+200% Damage to Elites"
+      ],
+      "offhand": "Shield of the Order",
+      "offhandBonus": [
+        "+1 Block Ability",
+        "+40% Block Chance",
+        "+25% Bonus Health"
+      ],
+      "requirements": [
+        "Maces",
+        "Shields"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "hammer-of-sol",
+      "type": "primary",
+      "name": "Hammer of Sol",
+      "description": [],
+      "damage": "45%-75% Solar Damage",
+      "targeting": "Projectile x1",
+      "attacksPerSecond": 1.33,
+      "energyPerHit": 8,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+30% Chance to Burn with Solar Damage"
+      ],
+      "offhand": "Golden Buckler",
+      "offhandBonus": [
+        "+1 Block Ability",
+        "+15% Block Chance",
+        "+1 Dodge Charges"
+      ],
+      "requirements": [
+        "Magic Weapons",
+        "Shields"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "divine-purge",
+      "type": "primary",
+      "name": "Divine Purge",
+      "description": [],
+      "damage": "38%-63% Solar Damage",
+      "targeting": "Direct x3",
+      "attacksPerSecond": 0.67,
+      "energyPerHit": 10,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+75% Chance to Burn with Solar Damage"
+      ],
+      "offhand": "Book of Aura",
+      "offhandBonus": [
+        "+25% Solar Damage",
+        "+7.5% Instant Attack Chance"
+      ],
+      "requirements": [
+        "Natural Casting",
+        "Divine Devotion",
+        "Solar Spells"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "ice-shard",
+      "type": "primary",
+      "name": "Ice Shard",
+      "description": [],
+      "damage": "75%-125% Lunar Damage",
+      "targeting": "Projectile x1",
+      "attacksPerSecond": 1,
+      "energyPerHit": 10,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+30% Chance to Freeze with Lunar Damage",
+        "+30% Damage to Frozen"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Lunar Spells",
+        "Natural Casting"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "conjured-blade",
+      "type": "primary",
+      "name": "Conjured Blade",
+      "description": [],
+      "damage": "16%-45% Lunar Damage",
+      "targeting": "Cleave",
+      "attacksPerSecond": 1.25,
+      "energyPerHit": 5,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+100% Resistance Piercing Chance",
+        "+7.5% Chance to Freeze with Lunar Damage"
+      ],
+      "offhand": "Book of Kuu",
+      "offhandBonus": [
+        "+25% Lunar Damage",
+        "+10% Projectile Amount"
+      ],
+      "requirements": [
+        "Magic Weapons",
+        "Cosmic Studies",
+        "Lunar Spells"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "cosmic-ray",
+      "type": "primary",
+      "name": "Cosmic Ray",
+      "description": [],
+      "damage": "53%-88% Lunar Damage",
+      "targeting": "Chained x1 x3",
+      "attacksPerSecond": 1,
+      "energyPerHit": 8,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+75% Damage to Frozen"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Cosmic Studies",
+        "Natural Casting"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "lesser-arcane-missiles",
+      "type": "primary",
+      "name": "Lesser Arcane Missiles",
+      "description": [],
+      "damage": "38%-63% Lunar Damage",
+      "targeting": "Projectile x2",
+      "attacksPerSecond": 1,
+      "energyPerHit": 8,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+25% Double Shot Chance"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Cosmic Studies",
+        "Natural Casting"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "blade-of-akka",
+      "type": "primary",
+      "name": "Blade of Akka",
+      "description": [],
+      "damage": "150%-250% Primal Damage",
+      "targeting": "Melee",
+      "attacksPerSecond": 1,
+      "energyPerHit": 25,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+1 Block Ability",
+        "+15% Block Chance",
+        "+100% Critical Hit Chance",
+        "+5% Attack Speed Increased per Life Lost"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Dual Wielding",
+        "Swords"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "stray-leg",
+      "type": "primary",
+      "name": "Stray Leg",
+      "description": [],
+      "damage": "50%-150% Primal Damage",
+      "targeting": "Melee",
+      "attacksPerSecond": 1,
+      "energyPerHit": 22,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [
+        "+15% Chance to Stun with Primal Damage",
+        "+300% Damage to Stunned"
+      ],
+      "offhand": "None",
+      "offhandBonus": [
+        "None"
+      ],
+      "requirements": [
+        "Savage Tactics"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "axe-toss",
+      "type": "power",
+      "name": "Axe Toss",
+      "description": [
+        "Throw 2 axes towards random enemies dealing 188-313% Primal Damage."
+      ],
+      "damage": "",
+      "targeting": "Projectile x2",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 20,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Throwing Weapons",
+        "Axes"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "seismic-slam",
+      "type": "power",
+      "name": "Seismic Slam",
+      "description": [
+        "Slam the ground in front of you causing a seismic force that deals 225-375% Primal Damage to enemies caught in it."
+      ],
+      "damage": "",
+      "targeting": "Area of Effect",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 40,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Two-Handed Weapons",
+        "Maces"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "primal-roar",
+      "type": "power",
+      "name": "Primal Roar",
+      "description": [
+        "Let out a devastating roar that shatters the skulls of nearby enemies dealing 450-750% Primal Damage.",
+        "Heal 2.5% of your maximum health for each enemy hit."
+      ],
+      "damage": "",
+      "targeting": "Area of Effect",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 100,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Savage Tactics"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "death-sweep",
+      "type": "power",
+      "name": "Death Sweep",
+      "description": [
+        "Perform a cleave attack that deals 600-1000% Primal Damage, divided evenly among all enemies hit."
+      ],
+      "damage": "",
+      "targeting": "Cleave",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 25,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Two-Handed Weapons",
+        "Swords"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "power-shot",
+      "type": "power",
+      "name": "Power Shot",
+      "description": [
+        "Shoot 1 powerful arrow that pierces through enemies and deals 450-750% Primal Damage."
+      ],
+      "damage": "",
+      "targeting": "Projectile x1",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 40,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Longbows"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "richchet-shot",
+      "type": "power",
+      "name": "Richchet Shot",
+      "description": [
+        "Shoot 1 arrow that ricochets between enemy targets dealing 225-375% Primal Damage per hit."
+      ],
+      "damage": "",
+      "targeting": "Projectile x1",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 25,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Short Bows"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "fire-arrow-barrage",
+      "type": "power",
+      "name": "Fire Arrow Barrage",
+      "description": [
+        "Shoot a barrage of 3 fiery arrows, each dealing 300-500% Solar Damage.",
+        "Multiple barrages can stack increasing the rate of fire."
+      ],
+      "damage": "",
+      "targeting": "Projectile x3",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 30,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Longbows",
+        "Survival"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "snake-shot",
+      "type": "power",
+      "name": "Snake Shot",
+      "description": [
+        "Shoot 3 rigid snakes that weave through the air, dealing 150-250% Primal Damage on hit and with a 35% chance to inflict a random condition."
+      ],
+      "damage": "",
+      "targeting": "Projectile x3",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 30,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Short Bows",
+        "Survival"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "fan-of-knives",
+      "type": "power",
+      "name": "Fan of Knives",
+      "description": [
+        "Throw a fan of 3 daggers that pierce through enemies and deal 188-313% Primal Damage each."
+      ],
+      "damage": "",
+      "targeting": "Projectile x3",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 30,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Throwing Weapons",
+        "Daggers"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "spinning-blades",
+      "type": "power",
+      "name": "Spinning Blades",
+      "description": [
+        "With both hands, throw 1 blades that spin around you dealing 225-375% Primal Damage."
+      ],
+      "damage": "",
+      "targeting": "Projectile x2",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 30,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Throwing Weapons",
+        "Swords"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "shadowstrikes",
+      "type": "power",
+      "name": "Shadowstrikes",
+      "description": [
+        "Strike between 1 and 5 nearby enemies, dealing 225-375% Lunar Damage."
+      ],
+      "damage": "",
+      "targeting": "Direct",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 20,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Shadow Arts"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "sacred-hammer",
+      "type": "power",
+      "name": "Sacred Hammer",
+      "description": [
+        "Throw 2 hammers that spin around piercing through enemies and dealing 132-219% Solar Damage."
+      ],
+      "damage": "",
+      "targeting": "Projectile x2",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 30,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Maces",
+        "Divine Devotion"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "shield-of-vengeance",
+      "type": "power",
+      "name": "Shield of Vengeance",
+      "description": [
+        "Shoots 1 shield that bounces between enemy targets dealing 300-500% Solar Damage per hit."
+      ],
+      "damage": "",
+      "targeting": "Projectile x1",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 25,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Shields",
+        "Divine Devotion"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "solar-spear",
+      "type": "power",
+      "name": "Solar Spear",
+      "description": [
+        "Throw 1 spears that pierce through enemies and explode upon impact, dealing 225-375% Solar Damage."
+      ],
+      "damage": "",
+      "targeting": "Projectile x1",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 30,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Magic Weapons",
+        "Solar Spells"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "holy-bolts",
+      "type": "power",
+      "name": "Holy Bolts",
+      "description": [
+        "Conjure 2 holy bolts that explode upon impact, dealing 133-188% Solar Damage."
+      ],
+      "damage": "",
+      "targeting": "Projectile x2",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 20,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Divine Devotion"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "frostfall",
+      "type": "power",
+      "name": "Frostfall",
+      "description": [
+        "5 icy projectiles fall from the sky exploding and dealing 132-219% Lunar Damage to all targets hit."
+      ],
+      "damage": "",
+      "targeting": "Projectile x5",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 30,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Lunar Spells"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "ice-spikes",
+      "type": "power",
+      "name": "Ice Spikes",
+      "description": [
+        "Conjure a row of 3 icy spikes that deal 188-313% Lunar Damage each."
+      ],
+      "damage": "",
+      "targeting": "Projectile x3",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 25,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Lunar Spells"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "collapsing-star",
+      "type": "power",
+      "name": "Collapsing Star",
+      "description": [
+        "Conjure a collapsing star that travels forward, growing and pulling enemies inside it, periodically dealing 38-63% Lunar Damage."
+      ],
+      "damage": "",
+      "targeting": "Area of Effect",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 60,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Cosmic Studies"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "greater-arcane-missiles",
+      "type": "power",
+      "name": "Greater Arcane Missiles",
+      "description": [
+        "Shoot 2 greater arcane missiles that deal 450-750% Lunar Damage and explode when they dissipate."
+      ],
+      "damage": "",
+      "targeting": "Projectile x2",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": 60,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Cosmic Studies"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "execute",
+      "type": "passive",
+      "name": "Execute",
+      "description": [
+        "Every 1 seconds deal 375-625% Primal Damage to up to 3 random nearby Injured enemies."
+      ],
+      "damage": "",
+      "targeting": "Direct",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Two-Handed Weapons",
+        "Axes"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "whirlwind",
+      "type": "passive",
+      "name": "Whirlwind",
+      "description": [
+        "Spin a set of swords around yourself dealing 23-38% Primal Damage every 0.25 seconds to nearby enemies."
+      ],
+      "damage": "",
+      "targeting": "Melee",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Two-Handed Weapons",
+        "Swords"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "spike-balls",
+      "type": "passive",
+      "name": "Spike Balls",
+      "description": [
+        "Spin 2 spike balls around yourself, dealing 188-313% Primal Damage to all enemies they hit."
+      ],
+      "damage": "",
+      "targeting": "Projectile x2",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Savage Tactics"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "burst-shot",
+      "type": "passive",
+      "name": "Burst Shot",
+      "description": [
+        "Every 3 seconds shoot 3 arrows towards the closest nearby enemy dealing 225-375% Solar Damage each."
+      ],
+      "damage": "",
+      "targeting": "Projectile x3",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Short Bows"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "concentrated-shot",
+      "type": "passive",
+      "name": "Concentrated Shot",
+      "description": [
+        "Every 2 seconds, if no enemies are nearby, shoot 1 arrows dealing 225-375% Lunar Damage and generating 5 Energy per target hit."
+      ],
+      "damage": "",
+      "targeting": "Projectile x1",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Longbows"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "precision-volley",
+      "type": "passive",
+      "name": "Precision Volley",
+      "description": [
+        "Whenever your Power Ability triggers, fire up to 5 arrows targeting individual enemies in front of you, dealing 188-313% Primal Damage each."
+      ],
+      "damage": "",
+      "targeting": "Projectile x5",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Longbows"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "quick-strike",
+      "type": "passive",
+      "name": "Quick Strike",
+      "description": [
+        "When you Primary Attack you also instantly attack a random nearby enemy for 132-219% Primal Damage and generate 3 Energy."
+      ],
+      "damage": "",
+      "targeting": "Direct",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Dual Wielding"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "counter-throw",
+      "type": "passive",
+      "name": "Counter Throw",
+      "description": [
+        "When a nearby enemy is about to launch a Primary Attack against you, throw 2 deadly shurikens at it.",
+        "These shurikens bounce between enemies, dealing 150-250% Primal Damage. Has a 0.25 second cooldown."
+      ],
+      "damage": "",
+      "targeting": "Projectile x2",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Throwing Weapons"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "mark-of-shadow",
+      "type": "passive",
+      "name": "Mark of Shadow",
+      "description": [
+        "When you trigger your Primary Attack, mark up to 1 random enemies (up to a maximum of 5).",
+        "When your Power Attack is activated, spawn a shadowy clone that deals 113-188% Lunar Damage to each marked target."
+      ],
+      "damage": "",
+      "targeting": "Direct",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Shadow Arts"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "aura-of-sol",
+      "type": "passive",
+      "name": "Aura of Sol",
+      "description": [
+        "An aura surrounds you that deals 57-94% Solar Damage every 1 seconds to enemies inside it."
+      ],
+      "damage": "",
+      "targeting": "Area of Effect",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Auras"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "aura-of-judgment",
+      "type": "passive",
+      "name": "Aura of Judgment",
+      "description": [
+        "Whenever your Power Attack triggers, judge up to 4 enemies within the aura, dealing 263-438% Primal Damage to them."
+      ],
+      "damage": "",
+      "targeting": "Direct",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Auras"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "sigil-of-flames",
+      "type": "passive",
+      "name": "Sigil of Flames",
+      "description": [
+        "Your Primary Attacks have a 50% chance to unleash 2 streams of fire that chain to up to 3 targets, rapidly dealing 19-32% Solar Damage three times to each target."
+      ],
+      "damage": "",
+      "targeting": "Chained x2 x3",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Sigils"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "sunfire-beams",
+      "type": "passive",
+      "name": "Sunfire Beams",
+      "description": [
+        "Emit 3 beams that rotate around you, repeatedly dealing 38-63% Solar Damage to each enemy hit."
+      ],
+      "damage": "",
+      "targeting": "Projectile x3",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Sigils"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "freezing-vortex",
+      "type": "passive",
+      "name": "Freezing Vortex",
+      "description": [
+        "A Freezing vortex surrounds you applying Freeze every 0.25 seconds to enemies inside it. The amount of Freeze applied scales with Chance to Freeze with Lunar Damage stat.",
+        "Freeze applied slower to elites and bosses."
+      ],
+      "damage": "",
+      "targeting": "Area of Effect",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Lunar Spells"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "arcane-orbs",
+      "type": "passive",
+      "name": "Arcane Orbs",
+      "description": [
+        "Summon 3 arcane orbs to spin around you, piercing through enemies and dealing 133-188% Lunar Damage.",
+        "These orbs also cause a small arcane explosion, dealing 25% of the base damage to nearby enemies."
+      ],
+      "damage": "",
+      "targeting": "Projectile x3",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Cosmic Studies"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "arcane-missiles",
+      "type": "passive",
+      "name": "Arcane Missiles",
+      "description": [
+        "Every 3 seconds, shoot 2 arcane missiles at random enemies. Each missile explodes on impact, dealing 75-125% Lunar Damage to all enemies hit.",
+        "The cooldown of this ability behaves unpredictably."
+      ],
+      "damage": "",
+      "targeting": "Projectile x2",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Cosmic Studies"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "quick-dash",
+      "type": "movement",
+      "name": "Quick Dash",
+      "description": [
+        "Improved Dash that has a shorter cooldown."
+      ],
+      "damage": "",
+      "targeting": "",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "1.5s",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "No Rquirements"
+      ],
+      "damageTypes": []
+    },
+    {
+      "id": "leap",
+      "type": "movement",
+      "name": "Leap",
+      "description": [
+        "Leap and land dealing 375-1125% Primal Damage to all enemies around you and generating 5 Energy per enemy hit."
+      ],
+      "damage": "",
+      "targeting": "",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "3s",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Savage Tactics"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "death-rush",
+      "type": "movement",
+      "name": "Death Rush",
+      "description": [
+        "Rush through enemy units dealing 113-188% Primal Damage and Healing for 5% of maximum Health per target hit. Damage and Healing increased by 100% for each target hit."
+      ],
+      "damage": "",
+      "targeting": "",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "3s",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Savage Tactics"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "savage-kick",
+      "type": "movement",
+      "name": "Savage Kick",
+      "description": [
+        "Kick, dealing 188-313% Primal Damage to all enemies in front of you. Deals 10 times the normal damage against stunned targets."
+      ],
+      "damage": "",
+      "targeting": "",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "1.5s",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Savage Tactics"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "disengage",
+      "type": "movement",
+      "name": "Disengage",
+      "description": [
+        "Quickly move, shooting 3 arrows, each dealing 132-219% Primal Damage and generating 15 Energy per target hit."
+      ],
+      "damage": "",
+      "targeting": "",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "3s",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Short Bows"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "lay-fire-traps",
+      "type": "movement",
+      "name": "Lay Fire Traps",
+      "description": [
+        "Quickly move, laying 2 fiery traps that deal 525-875% Solar Damage when triggered."
+      ],
+      "damage": "",
+      "targeting": "",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "3s",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Survival"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "lay-frost-traps",
+      "type": "movement",
+      "name": "Lay Frost Traps",
+      "description": [
+        "Quickly move, laying 2 icy traps that deal 525-875% Lunar Damage when triggered."
+      ],
+      "damage": "",
+      "targeting": "",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "3s",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Survival"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    },
+    {
+      "id": "blade-dash",
+      "type": "movement",
+      "name": "Blade Dash",
+      "description": [
+        "Dash through enemy units dealing 300-500% Primal Damage to them, gaining up to 2 Dodge Charges."
+      ],
+      "damage": "",
+      "targeting": "",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "3s",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Daggers"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "dance-of-daggers",
+      "type": "movement",
+      "name": "Dance Of Daggers",
+      "description": [
+        "Execute an acrobatic maneuver, throwing up to 6 daggers at random nearby enemies, dealing 225-375% Primal Damage each. Generates 10 Energy per target hit."
+      ],
+      "damage": "",
+      "targeting": "",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "2s",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Daggers"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "shield-charge",
+      "type": "movement",
+      "name": "Shield Charge",
+      "description": [
+        "Charge, dealing 563-938% Primal Damage to all enemies in front of you and Stunning them for 1 second."
+      ],
+      "damage": "",
+      "targeting": "",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "3s",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Shields"
+      ],
+      "damageTypes": [
+        "Primal"
+      ]
+    },
+    {
+      "id": "spectral-steed",
+      "type": "movement",
+      "name": "Spectral Steed",
+      "description": [
+        "Charge with a wedge of 3 spectral steeds, dealing 375-625% Solar Damage to each enemy hit."
+      ],
+      "damage": "",
+      "targeting": "",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "4s",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Divine Devotion"
+      ],
+      "damageTypes": [
+        "Solar"
+      ]
+    },
+    {
+      "id": "teleport",
+      "type": "movement",
+      "name": "Teleport",
+      "description": [
+        "Teleport and regenerate 50% of your maximum Barrier."
+      ],
+      "damage": "",
+      "targeting": "",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "3s",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Cosmic Studies"
+      ],
+      "damageTypes": []
+    },
+    {
+      "id": "falling-comet",
+      "type": "movement",
+      "name": "Falling Comet",
+      "description": [
+        "Leap into the air and crash down as a Frozen comet, dealing 3750-6250% Lunar Damage split evenly among all enemies hit."
+      ],
+      "damage": "",
+      "targeting": "",
+      "attacksPerSecond": null,
+      "energyPerHit": null,
+      "energyCost": null,
+      "recharge": "5s",
+      "innateBonus": [],
+      "offhand": "",
+      "offhandBonus": [],
+      "requirements": [
+        "Lunar Spells"
+      ],
+      "damageTypes": [
+        "Lunar"
+      ]
+    }
+  ]
+}

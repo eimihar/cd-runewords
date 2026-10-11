@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "data": "node scripts/build-data.mjs",
+    "fetch:abilities": "node scripts/fetch-abilities.mjs",
     "predev": "npm run data",
     "dev": "vite",
     "prebuild": "npm run data",
